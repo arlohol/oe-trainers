@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>257. Camper Flint</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/178-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/267.png"/>
+</div>
+<pre><span class="type-psychic">Xatu</span> @ Wise Glasses  
+<span class="attr">Ability: </span>Magic Bounce  
+<span class="attr">Level: </span>53  
+<span class="attr">EVs: </span><span class="stat-spa">248 SpA</span> / <span class="stat-spd">8 SpD</span> / <span class="stat-spe">248 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-hp">26 HP</span> / <span class="stat-atk">26 Atk</span> / <span class="stat-def">26 Def</span> / <span class="stat-spa">26 SpA</span> / <span class="stat-spd">26 SpD</span> / <span class="stat-spe">26 Spe</span>  
+<span class="type-flying">-</span> Air Slash  
+<span class="type-psychic">-</span> Psychic  
+<span class="type-ghost">-</span> Ominous Wind  
+<span class="type-psychic">-</span> Psychic Terrain  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/701-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/882.png"/>
+</div>
+<pre><span class="type-fighting">Hawlucha</span> @ Psychic Seed  
+<span class="attr">Ability: </span>Unburden  
+<span class="attr">Level: </span>53  
+<span class="attr">EVs: </span><span class="stat-hp">180 HP</span> / <span class="stat-atk">252 Atk</span> / <span class="stat-spd">12 SpD</span> / <span class="stat-spe">64 Spe</span>  
+Adamant Nature  
+<span class="attr">IVs: </span><span class="stat-hp">26 HP</span> / <span class="stat-atk">26 Atk</span> / <span class="stat-def">26 Def</span> / <span class="stat-spa">26 SpA</span> / <span class="stat-spd">26 SpD</span> / <span class="stat-spe">26 Spe</span>  
+<span class="type-fighting">-</span> Flying Press  
+<span class="type-fighting">-</span> High Jump Kick  
+<span class="type-flying">-</span> Acrobatics  
+<span class="type-bug">-</span> Lunge  
+
+</pre>
+</article>
+
+<a href="/trainer/256">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/258">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

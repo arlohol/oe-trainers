@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>139. Black Belt Nob</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/237-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/270.png"/>
+</div>
+<pre><span class="type-fighting">Hitmontop</span> @ Life Orb  
+<span class="attr">Ability: </span>Technician  
+<span class="attr">Level: </span>35  
+<span class="attr">EVs: </span><span class="stat-atk">252 Atk</span> / <span class="stat-spe">152 Spe</span>  
+Adamant Nature  
+<span class="attr">IVs: </span><span class="stat-hp">22 HP</span> / <span class="stat-atk">22 Atk</span> / <span class="stat-def">22 Def</span> / <span class="stat-spa">22 SpA</span> / <span class="stat-spd">22 SpD</span> / <span class="stat-spe">22 Spe</span>  
+<span class="type-ice">-</span> Triple Axel  
+<span class="type-fighting">-</span> Triple Kick  
+<span class="type-steel">-</span> Bullet Punch  
+<span class="type-dark">-</span> Sucker Punch  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/106-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/158.png"/>
+</div>
+<pre><span class="type-fighting">Hitmonlee</span> @ Sitrus Berry  
+<span class="attr">Ability: </span>Reckless  
+<span class="attr">Level: </span>35  
+<span class="attr">EVs: </span><span class="stat-atk">164 Atk</span> / <span class="stat-spe">248 Spe</span>  
+Jolly Nature  
+<span class="attr">IVs: </span><span class="stat-hp">22 HP</span> / <span class="stat-atk">22 Atk</span> / <span class="stat-def">22 Def</span> / <span class="stat-spa">22 SpA</span> / <span class="stat-spd">22 SpD</span> / <span class="stat-spe">22 Spe</span>  
+<span class="type-fighting">-</span> High Jump Kick  
+<span class="type-fire">-</span> Blaze Kick  
+<span class="type-steel">-</span> Bullet Punch  
+<span class="type-normal">-</span> Fake Out  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/107-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/1884.png"/>
+</div>
+<pre><span class="type-fighting">Hitmonchan</span> @ Punching Glove  
+<span class="attr">Ability: </span>Iron Fist  
+<span class="attr">Level: </span>35  
+<span class="attr">EVs: </span><span class="stat-hp">152 HP</span> / <span class="stat-atk">252 Atk</span>  
+Adamant Nature  
+<span class="attr">IVs: </span><span class="stat-hp">22 HP</span> / <span class="stat-atk">22 Atk</span> / <span class="stat-def">22 Def</span> / <span class="stat-spa">22 SpA</span> / <span class="stat-spd">22 SpD</span> / <span class="stat-spe">22 Spe</span>  
+<span class="type-fighting">-</span> Drain Punch  
+<span class="type-ice">-</span> Ice Punch  
+<span class="type-electric">-</span> Thunder Punch  
+<span class="type-steel">-</span> Bullet Punch  
+
+</pre>
+</article>
+
+<a href="/trainer/138">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/140">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

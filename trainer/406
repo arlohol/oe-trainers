@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>406. Black Belt Hitoshi</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/237-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/266.png"/>
+</div>
+<pre><span class="type-fighting">Hitmontop</span> @ Muscle Band  
+<span class="attr">Ability: </span>Technician  
+<span class="attr">Level: </span>68  
+<span class="attr">Tera Type: </span><span class="type-fighting">Fighting</span>  
+<span class="attr">EVs: </span><span class="stat-hp">148 HP</span> / <span class="stat-atk">252 Atk</span> / <span class="stat-spd">8 SpD</span>  
+Adamant Nature  
+<span class="type-fighting">-</span> Triple Kick  
+<span class="type-ice">-</span> Triple Axel  
+<span class="type-steel">-</span> Bullet Punch  
+<span class="type-normal">-</span> Fake Out  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/0-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/270.png"/>
+</div>
+<pre>Decidueye-Hisui @ Life Orb  
+<span class="attr">Ability: </span>Scrappy  
+<span class="attr">Level: </span>68  
+<span class="attr">Tera Type: </span><span class="type-grass">Grass</span>  
+<span class="attr">EVs: </span><span class="stat-hp">152 HP</span> / <span class="stat-atk">252 Atk</span> / <span class="stat-spe">4 Spe</span>  
+Adamant Nature  
+<span class="type-fighting">-</span> Triple Arrows  
+<span class="type-fire">-</span> Blaze Kick  
+<span class="type-grass">-</span> Leaf Blade  
+<span class="type-dark">-</span> Sucker Punch  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/85-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/241.png"/>
+</div>
+<pre><span class="type-normal">Dodrio</span> @ <span class="type-fighting">Black Belt</span>  
+<span class="attr">Ability: </span>Reckless  
+<span class="attr">Level: </span>69  
+<span class="attr">Tera Type: </span><span class="type-normal">Normal</span>  
+<span class="attr">EVs: </span><span class="stat-atk">108 Atk</span> / <span class="stat-spe">252 Spe</span>  
+Jolly Nature  
+<span class="type-fighting">-</span> Jump Kick  
+<span class="type-flying">-</span> Brave Bird  
+<span class="type-normal">-</span> Double-Edge  
+<span class="type-dark">-</span> Knock Off  
+
+</pre>
+</article>
+
+<a href="/trainer/405">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/407">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

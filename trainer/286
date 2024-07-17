@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>286. Hex Maniac Leah</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/326-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/270.png"/>
+</div>
+<pre><span class="type-psychic">Grumpig</span> @ Life Orb  
+<span class="attr">Ability: </span>Thick Fat  
+<span class="attr">Level: </span>56  
+<span class="attr">EVs: </span><span class="stat-spa">208 SpA</span> / <span class="stat-spe">252 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-psychic">-</span> Lumina Crash  
+<span class="type-grass">-</span> Energy Ball  
+<span class="type-fighting">-</span> Focus Blast  
+<span class="type-rock">-</span> Power Gem  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/196-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/882.png"/>
+</div>
+<pre><span class="type-psychic">Espeon</span> @ Psychic Seed  
+<span class="attr">Ability: </span>Psychic Surge  
+<span class="attr">Level: </span>57  
+<span class="attr">EVs: </span><span class="stat-spa">208 SpA</span> / <span class="stat-spd">8 SpD</span> / <span class="stat-spe">248 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-psychic">-</span> Expanding Force  
+<span class="type-fairy">-</span> Dazzling Gleam  
+<span class="type-psychic">-</span> Psyshock  
+<span class="type-bug">-</span> Signal Beam  
+
+</pre>
+</article>
+
+<a href="/trainer/285">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/287">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

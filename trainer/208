@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>208. Bird Keeper Elijah</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/227-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/270.png"/>
+</div>
+<pre><span class="type-steel">Skarmory</span> @ Life Orb  
+<span class="attr">Ability: </span>Weak Armor  
+<span class="attr">Level: </span>47  
+<span class="attr">EVs: </span><span class="stat-atk">252 Atk</span> / <span class="stat-spe">176 Spe</span>  
+Adamant Nature  
+<span class="type-steel">-</span> Autotomize  
+<span class="type-flying">-</span> Brave Bird  
+<span class="type-steel">-</span> Iron Head  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/823-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/268.png"/>
+</div>
+<pre><span class="type-flying">Corviknight</span> @ Expert Belt  
+<span class="attr">Ability: </span>Mirror Armor  
+<span class="attr">Level: </span>47  
+<span class="attr">EVs: </span><span class="stat-atk">244 Atk</span> / <span class="stat-spd">8 SpD</span> / <span class="stat-spe">176 Spe</span>  
+Adamant Nature  
+<span class="type-psychic">-</span> Agility  
+<span class="type-flying">-</span> Brave Bird  
+<span class="type-steel">-</span> Heavy Slam  
+
+</pre>
+</article>
+
+<a href="/trainer/207">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/209">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

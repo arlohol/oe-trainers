@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>25. Youngster Tommy</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/744-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/149.png"/>
+</div>
+<pre><span class="type-rock">Rockruff</span> @ Cheri Berry  
+<span class="attr">Ability: </span>Vital Spirit  
+<span class="attr">Level: </span>12  
+<span class="attr">EVs: </span><span class="stat-atk">56 Atk</span>  
+Adamant Nature  
+<span class="type-rock">-</span> Rock Throw  
+<span class="type-normal">-</span> Tackle  
+<span class="type-normal">-</span> Howl  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/304-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/155.png"/>
+</div>
+<pre><span class="type-steel">Aron</span> @ Oran Berry  
+<span class="attr">Ability: </span>Sturdy  
+<span class="attr">Level: </span>12  
+<span class="attr">EVs: </span><span class="stat-atk">84 Atk</span>  
+Adamant Nature  
+<span class="type-steel">-</span> Metal Claw  
+<span class="type-rock">-</span> Rock Tomb  
+<span class="type-normal">-</span> Tackle  
+<span class="type-normal">-</span> Harden  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/557-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/150.png"/>
+</div>
+<pre><span class="type-bug">Dwebble</span> @ Chesto Berry  
+<span class="attr">Ability: </span>Weak Armor  
+<span class="attr">Level: </span>12  
+<span class="attr">EVs: </span><span class="stat-hp">12 HP</span> / <span class="stat-atk">56 Atk</span> / <span class="stat-spe">4 Spe</span>  
+Adamant Nature  
+<span class="type-bug">-</span> Bug Bite  
+<span class="type-rock">-</span> Smack Down  
+<span class="type-water">-</span> Withdraw  
+
+</pre>
+</article>
+
+<a href="/trainer/24">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/26">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

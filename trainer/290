@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>290. Pokemon Breeder Gabrielle</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/510-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/189.png"/>
+</div>
+<pre><span class="type-dark">Liepard</span> @ <span class="type-fighting">Chople Berry</span>  
+<span class="attr">Ability: </span>Prankster  
+<span class="attr">Level: </span>54  
+<span class="attr">Tera Type: </span><span class="type-dark">Dark</span>  
+<span class="attr">EVs: </span><span class="stat-atk">248 Atk</span> / <span class="stat-spd">4 SpD</span> / <span class="stat-spe">200 Spe</span>  
+Jolly Nature  
+<span class="type-normal">-</span> Fake Out  
+<span class="type-normal">-</span> Encore  
+<span class="type-dark">-</span> Knock Off  
+<span class="type-electric">-</span> Thunder Wave  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/301-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/564.png"/>
+</div>
+<pre><span class="type-normal">Delcatty</span> @ <span class="type-normal">Normal Gem</span>  
+<span class="attr">Ability: </span>Normalize  
+<span class="attr">Level: </span>54  
+<span class="attr">Tera Type: </span><span class="type-normal">Normal</span>  
+<span class="attr">EVs: </span><span class="stat-atk">248 Atk</span> / <span class="stat-spd">8 SpD</span> / <span class="stat-spe">204 Spe</span>  
+Jolly Nature  
+<span class="type-fairy">-</span> Play Rough  
+<span class="type-normal">-</span> Body Slam  
+<span class="type-ground">-</span> Stomping Tantrum  
+<span class="type-dark">-</span> Sucker Punch  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/828-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/161.png"/>
+</div>
+<pre><span class="type-dark">Thievul</span> @ Mago Berry  
+<span class="attr">Ability: </span>Stakeout  
+<span class="attr">Level: </span>54  
+<span class="attr">Tera Type: </span><span class="type-dark">Dark</span>  
+<span class="attr">EVs: </span><span class="stat-spa">248 SpA</span> / <span class="stat-spd">8 SpD</span> / <span class="stat-spe">204 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-dark">-</span> Dark Pulse  
+<span class="type-grass">-</span> Grass Knot  
+<span class="type-psychic">-</span> Psychic  
+<span class="type-dark">-</span> Snarl  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/432-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/640.png"/>
+</div>
+<pre><span class="type-normal">Purugly</span> @ Assault Vest  
+<span class="attr">Ability: </span>Defiant  
+<span class="attr">Level: </span>54  
+<span class="attr">Tera Type: </span><span class="type-normal">Normal</span>  
+<span class="attr">EVs: </span><span class="stat-atk">252 Atk</span> / <span class="stat-spd">4 SpD</span> / <span class="stat-spe">204 Spe</span>  
+Jolly Nature  
+<span class="type-normal">-</span> Facade  
+<span class="type-normal">-</span> Fake Out  
+<span class="type-fairy">-</span> Play Rough  
+<span class="type-ground">-</span> Stomping Tantrum  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/678-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/275.png"/>
+</div>
+<pre><span class="type-psychic">Meowstic</span> @ Focus Sash  
+<span class="attr">Ability: </span>Prankster  
+<span class="attr">Level: </span>54  
+<span class="attr">Tera Type: </span><span class="type-psychic">Psychic</span>  
+<span class="attr">EVs: </span><span class="stat-hp">248 HP</span> / <span class="stat-atk">4 Atk</span> / <span class="stat-spd">208 SpD</span>  
+Gentle Nature  
+- Alluring Voice  
+<span class="type-dark">-</span> Fake Tears  
+<span class="type-normal">-</span> Fake Out  
+<span class="type-electric">-</span> Thunder Wave  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/678-1.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/270.png"/>
+</div>
+<pre><span class="type-psychic">Meowstic-F</span> @ Life Orb  
+<span class="attr">Ability: </span>Competitive  
+<span class="attr">Level: </span>54  
+<span class="attr">Tera Type: </span><span class="type-psychic">Psychic</span>  
+<span class="attr">EVs: </span><span class="stat-hp">4 HP</span> / <span class="stat-spa">252 SpA</span> / <span class="stat-spe">200 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+- Alluring Voice  
+<span class="type-grass">-</span> Energy Ball  
+<span class="type-psychic">-</span> Magic Coat  
+<span class="type-ghost">-</span> Shadow Ball  
+
+</pre>
+</article>
+
+<a href="/trainer/289">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/291">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

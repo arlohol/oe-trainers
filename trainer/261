@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>261. Bird Keeper Colin</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/279-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/234.png"/>
+</div>
+<pre><span class="type-water">Pelipper</span> @ Leftovers  
+<span class="attr">Ability: </span>Keen Eye  
+<span class="attr">Level: </span>54  
+<span class="attr">EVs: </span><span class="stat-hp">248 HP</span> / <span class="stat-def">204 Def</span> / <span class="stat-spd">8 SpD</span>  
+Impish Nature  
+<span class="type-dark">-</span> Knock Off  
+<span class="type-rock">-</span> Wide Guard  
+<span class="type-poison">-</span> Toxic  
+<span class="type-flying">-</span> Roost  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/178-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/195.png"/>
+</div>
+<pre><span class="type-psychic">Xatu</span> @ <span class="type-rock">Charti Berry</span>  
+<span class="attr">Ability: </span>Magic Bounce  
+<span class="attr">Level: </span>54  
+<span class="attr">EVs: </span><span class="stat-spa">208 SpA</span> / <span class="stat-spe">252 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-fire">-</span> Heat Wave  
+<span class="type-fairy">-</span> Dazzling Gleam  
+<span class="type-psychic">-</span> Psyshock  
+<span class="type-psychic">-</span> Magic Coat  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/561-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/270.png"/>
+</div>
+<pre><span class="type-psychic">Sigilyph</span> @ Life Orb  
+<span class="attr">Ability: </span>Magic Guard  
+<span class="attr">Level: </span>54  
+<span class="attr">EVs: </span><span class="stat-spa">208 SpA</span> / <span class="stat-spe">252 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-flying">-</span> Air Slash  
+<span class="type-fairy">-</span> Dazzling Gleam  
+<span class="type-psychic">-</span> Psyshock  
+<span class="type-ghost">-</span> Shadow Ball  
+
+</pre>
+</article>
+
+<a href="/trainer/260">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/262">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

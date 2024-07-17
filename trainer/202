@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>202. Swimmer Jerome</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/73-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/281.png"/>
+</div>
+<pre><span class="type-water">Tentacruel</span> @ Black Sludge  
+<span class="attr">Ability: </span>Clear Body  
+<span class="attr">Level: </span>46  
+<span class="attr">EVs: </span><span class="stat-atk">248 Atk</span> / <span class="stat-spe">172 Spe</span>  
+Jolly Nature  
+<span class="type-normal">-</span> Swords Dance  
+<span class="type-water">-</span> Waterfall  
+<span class="type-poison">-</span> Poison Jab  
+<span class="type-dark">-</span> Knock Off  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/334-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/234.png"/>
+</div>
+<pre><span class="type-dragon">Altaria</span> @ Leftovers  
+<span class="attr">Ability: </span>Cloud Nine  
+<span class="attr">Level: </span>46  
+<span class="attr">EVs: </span><span class="stat-spa">180 SpA</span> / <span class="stat-spe">248 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-flying">-</span> Tailwind  
+<span class="type-dragon">-</span> Dragon Pulse  
+<span class="type-normal">-</span> Helping Hand  
+<span class="type-fire">-</span> Fire Spin  
+
+</pre>
+</article>
+
+<a href="/trainer/201">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/203">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

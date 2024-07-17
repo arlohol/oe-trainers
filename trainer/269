@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>269. Bug Maniac Jeffrey</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/284-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/195.png"/>
+</div>
+<pre><span class="type-bug">Masquerain</span> @ <span class="type-rock">Charti Berry</span>  
+<span class="attr">Ability: </span>Intimidate  
+<span class="attr">Level: </span>54  
+<span class="attr">EVs: </span><span class="stat-spa">212 SpA</span> / <span class="stat-spe">252 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-flying">-</span> Air Slash  
+<span class="type-bug">-</span> Bug Buzz  
+<span class="type-grass">-</span> Energy Ball  
+<span class="type-water">-</span> Scald  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/752-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/192.png"/>
+</div>
+<pre><span class="type-water">Araquanid</span> @ <span class="type-flying">Coba Berry</span>  
+<span class="attr">Ability: </span>Water Bubble  
+<span class="attr">Level: </span>54  
+<span class="attr">EVs: </span><span class="stat-hp">200 HP</span> / <span class="stat-atk">252 Atk</span> / <span class="stat-spd">8 SpD</span>  
+Adamant Nature  
+<span class="type-water">-</span> Liquidation  
+<span class="type-bug">-</span> Leech Life  
+<span class="type-normal">-</span> Facade  
+<span class="type-poison">-</span> Poison Jab  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/416-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/232.png"/>
+</div>
+<pre><span class="type-bug">Vespiquen</span> @ Scope Lens  
+<span class="attr">Ability: </span>Queenly Majesty  
+<span class="attr">Level: </span>54  
+<span class="attr">EVs: </span><span class="stat-hp">208 HP</span> / <span class="stat-atk">252 Atk</span>  
+Adamant Nature  
+<span class="type-bug">-</span> Attack Order  
+<span class="type-flying">-</span> Dual Wingbeat  
+<span class="type-poison">-</span> Cross Poison  
+<span class="type-ghost">-</span> Destiny Bond  
+
+</pre>
+</article>
+
+<a href="/trainer/268">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/270">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

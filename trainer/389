@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>389. Swimmer Gilbert</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/9-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/214.png"/>
+</div>
+<pre><span class="type-water">Blastoise</span> @ White Herb  
+<span class="attr">Ability: </span>Torrent  
+<span class="attr">Level: </span>68  
+<span class="attr">EVs: </span><span class="stat-hp">252 HP</span> / <span class="stat-atk">248 Atk</span> / <span class="stat-def">8 Def</span>  
+Adamant Nature  
+<span class="type-normal">-</span> Fake Out  
+<span class="type-normal">-</span> Shell Smash  
+<span class="type-water">-</span> Aqua Tail  
+<span class="type-dragon">-</span> Outrage  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/400-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/234.png"/>
+</div>
+<pre><span class="type-normal">Bibarel</span> @ Leftovers  
+<span class="attr">Ability: </span>Moody  
+<span class="attr">Level: </span>67  
+<span class="attr">EVs: </span><span class="stat-hp">248 HP</span> / <span class="stat-def">164 Def</span> / <span class="stat-spd">96 SpD</span>  
+Sassy Nature  
+<span class="type-water">-</span> Aqua Tail  
+<span class="type-water">-</span> Surf  
+<span class="type-normal">-</span> Yawn  
+<span class="type-normal">-</span> Substitute  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/224-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/640.png"/>
+</div>
+<pre><span class="type-water">Octillery</span> @ Assault Vest  
+<span class="attr">Ability: </span>Mega Launcher  
+<span class="attr">Level: </span>68  
+<span class="attr">EVs: </span><span class="stat-hp">248 HP</span> / <span class="stat-spa">248 SpA</span> / <span class="stat-spd">12 SpD</span>  
+Modest Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-steel">-</span> Flash Cannon  
+<span class="type-water">-</span> Octazooka  
+<span class="type-grass">-</span> Energy Ball  
+<span class="type-ice">-</span> Ice Beam  
+
+</pre>
+</article>
+
+<a href="/trainer/388">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/390">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>29. Rich Boy Dawson</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/37-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/151.png"/>
+</div>
+<pre><span class="type-fire">Vulpix</span> @ Pecha Berry  
+<span class="attr">Ability: </span>Flash Fire  
+<span class="attr">Level: </span>14  
+<span class="attr">EVs: </span><span class="stat-spa">64 SpA</span> / <span class="stat-spe">28 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-hp">13 HP</span> / <span class="stat-atk">13 Atk</span> / <span class="stat-def">13 Def</span> / <span class="stat-spa">13 SpA</span> / <span class="stat-spd">13 SpD</span> / <span class="stat-spe">13 Spe</span>  
+<span class="type-fire">-</span> Ember  
+<span class="type-dark">-</span> Snarl  
+<span class="type-normal">-</span> Swift  
+<span class="type-normal">-</span> Disable  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/629-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/155.png"/>
+</div>
+<pre><span class="type-dark">Vullaby</span> @ Oran Berry  
+<span class="attr">Ability: </span>Overcoat  
+<span class="attr">Level: </span>14  
+<span class="attr">EVs: </span><span class="stat-spd">88 SpD</span>  
+Impish Nature  
+<span class="attr">IVs: </span><span class="stat-hp">13 HP</span> / <span class="stat-atk">13 Atk</span> / <span class="stat-def">13 Def</span> / <span class="stat-spa">13 SpA</span> / <span class="stat-spd">13 SpD</span> / <span class="stat-spe">13 Spe</span>  
+<span class="type-dark">-</span> Feint Attack  
+<span class="type-flying">-</span> Pluck  
+<span class="type-dark">-</span> Taunt  
+<span class="type-dark">-</span> Fake Tears  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/100-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/150.png"/>
+</div>
+<pre><span class="type-electric">Voltorb</span> @ Chesto Berry  
+<span class="attr">Ability: </span>Static  
+<span class="attr">Level: </span>14  
+<span class="attr">EVs: </span><span class="stat-spa">80 SpA</span>  
+Modest Nature  
+<span class="attr">IVs: </span><span class="stat-hp">13 HP</span> / <span class="stat-atk">13 Atk</span> / <span class="stat-def">13 Def</span> / <span class="stat-spa">13 SpA</span> / <span class="stat-spd">13 SpD</span> / <span class="stat-spe">13 Spe</span>  
+<span class="type-normal">-</span> Sonic Boom  
+<span class="type-electric">-</span> Charge Beam  
+<span class="type-normal">-</span> Swift  
+<span class="type-electric">-</span> Thunder Wave  
+
+</pre>
+</article>
+
+<a href="/trainer/28">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/30">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

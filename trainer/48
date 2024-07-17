@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>48. Brawly</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/559-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/686.png"/>
+</div>
+<pre><span class="type-dark">Scraggy</span> @ <span class="type-fairy">Roseli Berry</span>  
+<span class="attr">Ability: </span>Intimidate  
+<span class="attr">Level: </span>19  
+<span class="attr">EVs: </span><span class="stat-hp">48 HP</span> / <span class="stat-atk">120 Atk</span> / <span class="stat-def">12 Def</span> / <span class="stat-spe">84 Spe</span>  
+Adamant Nature  
+<span class="type-rock">-</span> Rock Tomb  
+<span class="type-fighting">-</span> Low Sweep  
+<span class="type-dark">-</span> Assurance  
+<span class="type-dragon">-</span> Dragon Tail  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/852-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/1884.png"/>
+</div>
+<pre><span class="type-fighting">Clobbopus</span> @ Punching Glove  
+<span class="attr">Ability: </span>Technician  
+<span class="attr">Level: </span>19  
+<span class="attr">EVs: </span><span class="stat-atk">240 Atk</span> / <span class="stat-def">28 Def</span>  
+Adamant Nature  
+<span class="type-fighting">-</span> Circle Throw  
+<span class="type-fighting">-</span> Power-Up Punch  
+<span class="type-water">-</span> Jet Punch  
+<span class="type-fighting">-</span> Detect  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/447-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/538.png"/>
+</div>
+<pre><span class="type-fighting">Riolu</span> @ Eviolite  
+<span class="attr">Ability: </span>Prankster  
+<span class="attr">Level: </span>19  
+<span class="attr">EVs: </span><span class="stat-hp">128 HP</span> / <span class="stat-atk">12 Atk</span> / <span class="stat-def">64 Def</span> / <span class="stat-spe">52 Spe</span>  
+Jolly Nature  
+<span class="type-fighting">-</span> Circle Throw  
+<span class="type-steel">-</span> Bullet Punch  
+<span class="type-normal">-</span> Endure  
+<span class="type-fighting">-</span> Coaching  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/296-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/270.png"/>
+</div>
+<pre><span class="type-fighting">Makuhita</span> @ Life Orb  
+<span class="attr">Ability: </span>Sheer Force  
+<span class="attr">Level: </span>19  
+<span class="attr">EVs: </span><span class="stat-hp">144 HP</span> / <span class="stat-atk">112 Atk</span> / <span class="stat-spd">16 SpD</span>  
+Adamant Nature  
+<span class="type-rock">-</span> Rock Tomb  
+<span class="type-fighting">-</span> Force Palm  
+<span class="type-fire">-</span> Fire Punch  
+<span class="type-ice">-</span> Ice Punch  
+
+</pre>
+</article>
+
+<a href="/trainer/47">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/49">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>438. Beauty Tiffany</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/779-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/275.png"/>
+</div>
+<pre><span class="type-water">Bruxish</span> @ Focus Sash  
+<span class="attr">Ability: </span>Dazzling  
+<span class="attr">Level: </span>77  
+<span class="attr">EVs: </span><span class="stat-hp">248 HP</span> / <span class="stat-atk">252 Atk</span> / <span class="stat-spd">8 SpD</span>  
+Brave Nature  
+<span class="attr">IVs: </span><span class="stat-spe">0 Spe</span>  
+<span class="type-psychic">-</span> Psychic Fangs  
+<span class="type-water">-</span> Aqua Tail  
+<span class="type-dark">-</span> Crunch  
+<span class="type-psychic">-</span> Trick Room  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/131-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/640.png"/>
+</div>
+<pre><span class="type-water">Lapras</span> @ Assault Vest  
+<span class="attr">Ability: </span>Hydration  
+<span class="attr">Level: </span>76  
+<span class="attr">EVs: </span><span class="stat-hp">252 HP</span> / <span class="stat-spa">8 SpA</span> / <span class="stat-spd">248 SpD</span>  
+Sassy Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span> / <span class="stat-spe">0 Spe</span>  
+<span class="type-water">-</span> Sparkling Aria  
+<span class="type-water">-</span> Life Dew  
+<span class="type-water">-</span> Rain Dance  
+<span class="type-ice">-</span> Ice Beam  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/368-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/267.png"/>
+</div>
+<pre><span class="type-water">Gorebyss</span> @ Wise Glasses  
+<span class="attr">Ability: </span>Hydration  
+<span class="attr">Level: </span>76  
+<span class="attr">EVs: </span><span class="stat-hp">252 HP</span> / <span class="stat-spa">252 SpA</span> / <span class="stat-spd">4 SpD</span>  
+Quiet Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span> / <span class="stat-spe">0 Spe</span>  
+<span class="type-psychic">-</span> Psychic  
+<span class="type-water">-</span> Muddy Water  
+<span class="type-ice">-</span> Blizzard  
+<span class="type-bug">-</span> Signal Beam  
+
+</pre>
+</article>
+
+<a href="/trainer/437">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/439">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

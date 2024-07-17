@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>162. Camper Drew</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/579-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/219.png"/>
+</div>
+<pre><span class="type-psychic">Reuniclus</span> @ Mental Herb  
+<span class="attr">Ability: </span>Overcoat  
+<span class="attr">Level: </span>41  
+<span class="attr">EVs: </span><span class="stat-hp">248 HP</span> / <span class="stat-spa">252 SpA</span> / <span class="stat-spd">8 SpD</span>  
+Quiet Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-psychic">-</span> Psychic  
+<span class="type-ghost">-</span> Shadow Ball  
+<span class="type-psychic">-</span> Calm Mind  
+<span class="type-psychic">-</span> Trick Room  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/589-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/184.png"/>
+</div>
+<pre><span class="type-bug">Escavalier</span> @ <span class="type-fire">Occa Berry</span>  
+<span class="attr">Ability: </span>Shell Armor  
+<span class="attr">Level: </span>42  
+<span class="attr">EVs: </span><span class="stat-hp">232 HP</span> / <span class="stat-atk">236 Atk</span> / <span class="stat-def">20 Def</span> / <span class="stat-spd">20 SpD</span>  
+Brave Nature  
+<span class="type-fighting">-</span> Close Combat  
+<span class="type-bug">-</span> Megahorn  
+<span class="type-steel">-</span> Iron Head  
+<span class="type-ground">-</span> Drill Run  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/780-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/270.png"/>
+</div>
+<pre><span class="type-normal">Drampa</span> @ Life Orb  
+<span class="attr">Ability: </span>Cloud Nine  
+<span class="attr">Level: </span>43  
+<span class="attr">EVs: </span><span class="stat-hp">240 HP</span> / <span class="stat-def">16 Def</span> / <span class="stat-spa">248 SpA</span> / <span class="stat-spd">4 SpD</span>  
+Quiet Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-normal">-</span> Hyper Voice  
+<span class="type-dragon">-</span> Draco Meteor  
+<span class="type-fire">-</span> Flamethrower  
+<span class="type-normal">-</span> Glare  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/105-1.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/258.png"/>
+</div>
+<pre><span class="type-fire">Marowak-Alola</span> @ Thick Club  
+<span class="attr">Ability: </span>Lightning Rod  
+<span class="attr">Level: </span>43  
+<span class="attr">EVs: </span><span class="stat-hp">244 HP</span> / <span class="stat-atk">248 Atk</span> / <span class="stat-def">8 Def</span> / <span class="stat-spd">8 SpD</span>  
+Brave Nature  
+<span class="type-fire">-</span> Flare Blitz  
+<span class="type-ghost">-</span> Shadow Bone  
+<span class="type-ground">-</span> Bonemerang  
+<span class="type-fighting">-</span> Brick Break  
+
+</pre>
+</article>
+
+<a href="/trainer/161">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/163">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

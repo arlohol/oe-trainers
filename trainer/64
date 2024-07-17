@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>64. Rival Battle 3 (Mudkip)</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/277-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/273.png"/>
+</div>
+<pre><span class="type-normal">Swellow</span> @ Flame Orb  
+<span class="attr">Ability: </span>Guts  
+<span class="attr">Level: </span>25  
+<span class="attr">EVs: </span><span class="stat-hp">240 HP</span> / <span class="stat-spd">16 SpD</span> / <span class="stat-spe">252 Spe</span>  
+Jolly Nature  
+<span class="attr">IVs: </span><span class="stat-hp">20 HP</span> / <span class="stat-def">20 Def</span> / <span class="stat-spa">20 SpA</span> / <span class="stat-spd">20 SpD</span> / <span class="stat-spe">20 Spe</span>  
+<span class="type-flying">-</span> Aerial Ace  
+<span class="type-normal">-</span> Quick Attack  
+<span class="type-flying">-</span> Tailwind  
+<span class="type-steel">-</span> Steel Wing  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/58-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/538.png"/>
+</div>
+<pre><span class="type-fire">Growlithe</span> @ Eviolite  
+<span class="attr">Ability: </span>Intimidate  
+<span class="attr">Level: </span>25  
+<span class="attr">EVs: </span><span class="stat-hp">236 HP</span> / <span class="stat-atk">12 Atk</span> / <span class="stat-spd">244 SpD</span> / <span class="stat-spe">8 Spe</span>  
+Careful Nature  
+<span class="attr">IVs: </span><span class="stat-hp">20 HP</span> / <span class="stat-def">20 Def</span> / <span class="stat-spa">20 SpA</span> / <span class="stat-spd">20 SpD</span> / <span class="stat-spe">20 Spe</span>  
+<span class="type-fire">-</span> Flame Wheel  
+<span class="type-fire">-</span> Will-O-Wisp  
+<span class="type-fighting">-</span> Double Kick  
+<span class="type-dark">-</span> Bite  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/422-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/187.png"/>
+</div>
+<pre><span class="type-water">Shellos</span> @ <span class="type-grass">Rindo Berry</span>  
+<span class="attr">Ability: </span>Storm Drain  
+<span class="attr">Level: </span>25  
+<span class="attr">EVs: </span><span class="stat-hp">244 HP</span> / <span class="stat-spa">12 SpA</span> / <span class="stat-spd">252 SpD</span>  
+Calm Nature  
+<span class="attr">IVs: </span><span class="stat-hp">20 HP</span> / <span class="stat-atk">20 Atk</span> / <span class="stat-def">20 Def</span> / <span class="stat-spa">20 SpA</span> / <span class="stat-spd">20 SpD</span> / <span class="stat-spe">20 Spe</span>  
+<span class="type-water">-</span> Water Pulse  
+<span class="type-rock">-</span> Ancient Power  
+<span class="type-normal">-</span> Yawn  
+<span class="type-ice">-</span> Icy Wind  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/253-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/163.png"/>
+</div>
+<pre><span class="type-grass">Grovyle</span> @ Iapapa Berry  
+<span class="attr">Ability: </span>Unburden  
+<span class="attr">Level: </span>26  
+<span class="attr">EVs: </span><span class="stat-atk">240 Atk</span> / <span class="stat-spd">8 SpD</span> / <span class="stat-spe">252 Spe</span>  
+Adamant Nature  
+<span class="type-bug">-</span> X-Scissor  
+<span class="type-grass">-</span> Leafage  
+<span class="type-flying">-</span> Aerial Ace  
+<span class="type-normal">-</span> Endure  
+
+</pre>
+</article>
+
+<a href="/trainer/63">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/65">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

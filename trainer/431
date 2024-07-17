@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>431. Aqua Admin Shelly</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/38-1.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/275.png"/>
+</div>
+<pre><span class="type-ice">Ninetales-Alola</span> @ Focus Sash  
+<span class="attr">Ability: </span>Snow Warning  
+<span class="attr">Level: </span>77  
+<span class="attr">EVs: </span><span class="stat-spa">252 SpA</span> / <span class="stat-spd">4 SpD</span> / <span class="stat-spe">252 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-ice">-</span> Blizzard  
+<span class="type-fairy">-</span> Moonblast  
+<span class="type-ice">-</span> Freeze-Dry  
+<span class="type-ice">-</span> Aurora Veil  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/351-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/287.png"/>
+</div>
+<pre><span class="type-normal">Castform</span> @ Choice Scarf  
+<span class="attr">Ability: </span>Forecast  
+<span class="attr">Level: </span>77  
+<span class="attr">EVs: </span><span class="stat-hp">4 HP</span> / <span class="stat-spa">252 SpA</span> / <span class="stat-spe">252 Spe</span>  
+Modest Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-ice">-</span> Blizzard  
+<span class="type-normal">-</span> Weather Ball  
+<span class="type-electric">-</span> Thunderbolt  
+<span class="type-ice">-</span> Icy Wind  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/199-1.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/234.png"/>
+</div>
+<pre><span class="type-poison">Slowking-Galar</span> @ Leftovers  
+<span class="attr">Ability: </span>Regenerator  
+<span class="attr">Level: </span>78  
+<span class="attr">EVs: </span><span class="stat-hp">252 HP</span> / <span class="stat-spa">8 SpA</span> / <span class="stat-spd">248 SpD</span>  
+Calm Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-electric">-</span> Thunder Wave  
+<span class="type-grass">-</span> Grass Knot  
+<span class="type-dark">-</span> Foul Play  
+<span class="type-ice">-</span> Snowscape  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/91-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/221.png"/>
+</div>
+<pre><span class="type-water">Cloyster</span> @ King's Rock  
+<span class="attr">Ability: </span>Skill Link  
+<span class="attr">Level: </span>78  
+<span class="attr">EVs: </span><span class="stat-hp">112 HP</span> / <span class="stat-atk">152 Atk</span> / <span class="stat-spd">4 SpD</span> / <span class="stat-spe">240 Spe</span>  
+Adamant Nature  
+<span class="type-ice">-</span> Icicle Spear  
+<span class="type-rock">-</span> Rock Blast  
+<span class="type-bug">-</span> Pin Missile  
+<span class="type-normal">-</span> Shell Smash  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/658-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/270.png"/>
+</div>
+<pre><span class="type-water">Greninja</span> @ Life Orb  
+<span class="attr">Ability: </span>Battle Bond  
+<span class="attr">Level: </span>78  
+<span class="attr">EVs: </span><span class="stat-hp">4 HP</span> / <span class="stat-spa">252 SpA</span> / <span class="stat-spe">252 Spe</span>  
+Timid Nature  
+<span class="type-water">-</span> Water Shuriken  
+<span class="type-ice">-</span> Ice Beam  
+<span class="type-water">-</span> Hydro Pump  
+<span class="type-dark">-</span> Dark Pulse  
+
+</pre>
+</article>
+
+<a href="/trainer/430">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/432">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

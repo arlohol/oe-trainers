@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>39. Kindler Tyler</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/662-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/195.png"/>
+</div>
+<pre><span class="type-fire">Fletchinder</span> @ <span class="type-rock">Charti Berry</span>  
+<span class="attr">Ability: </span>Gale Wings  
+<span class="attr">Level: </span>17  
+<span class="attr">EVs: </span><span class="stat-atk">116 Atk</span> / <span class="stat-spe">60 Spe</span>  
+Adamant Nature  
+<span class="attr">IVs: </span><span class="stat-hp">17 HP</span> / <span class="stat-def">17 Def</span> / <span class="stat-spa">17 SpA</span> / <span class="stat-spd">17 SpD</span> / <span class="stat-spe">17 Spe</span>  
+<span class="type-flying">-</span> Acrobatics  
+<span class="type-fire">-</span> Flame Charge  
+<span class="type-steel">-</span> Steel Wing  
+<span class="type-bug">-</span> U-turn  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/104-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/258.png"/>
+</div>
+<pre><span class="type-ground">Cubone</span> @ Thick Club  
+<span class="attr">Ability: </span>Lightning Rod  
+<span class="attr">Level: </span>17  
+<span class="attr">EVs: </span><span class="stat-atk">76 Atk</span> / <span class="stat-spe">80 Spe</span>  
+Adamant Nature  
+<span class="attr">IVs: </span><span class="stat-hp">17 HP</span> / <span class="stat-def">17 Def</span> / <span class="stat-spa">17 SpA</span> / <span class="stat-spd">17 SpD</span> / <span class="stat-spe">17 Spe</span>  
+<span class="type-ground">-</span> Bone Club  
+<span class="type-normal">-</span> Headbutt  
+<span class="type-fire">-</span> Fire Punch  
+<span class="type-fighting">-</span> Detect  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/838-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/161.png"/>
+</div>
+<pre><span class="type-rock">Carkol</span> @ Mago Berry  
+<span class="attr">Ability: </span>Steam Engine  
+<span class="attr">Level: </span>17  
+<span class="attr">EVs: </span><span class="stat-spa">104 SpA</span> / <span class="stat-spe">76 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-hp">17 HP</span> / <span class="stat-atk">17 Atk</span> / <span class="stat-def">17 Def</span> / <span class="stat-spd">17 SpD</span> / <span class="stat-spe">17 Spe</span>  
+<span class="type-rock">-</span> Ancient Power  
+<span class="type-normal">-</span> Rapid Spin  
+<span class="type-fire">-</span> Will-O-Wisp  
+<span class="type-fire">-</span> Incinerate  
+
+</pre>
+</article>
+
+<a href="/trainer/38">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/40">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

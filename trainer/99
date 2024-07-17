@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>99. Battle Girl Vivian</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/307-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/242.png"/>
+</div>
+<pre><span class="type-fighting">Meditite</span> @ <span class="type-electric">Magnet</span>  
+<span class="attr">Ability: </span>Pure Power  
+<span class="attr">Level: </span>26  
+<span class="attr">EVs: </span><span class="stat-hp">140 HP</span> / <span class="stat-atk">136 Atk</span>  
+Adamant Nature  
+<span class="attr">IVs: </span><span class="stat-hp">17 HP</span> / <span class="stat-atk">17 Atk</span> / <span class="stat-def">17 Def</span> / <span class="stat-spa">17 SpA</span> / <span class="stat-spd">17 SpD</span> / <span class="stat-spe">17 Spe</span>  
+<span class="type-fighting">-</span> High Jump Kick  
+<span class="type-fighting">-</span> Detect  
+<span class="type-psychic">-</span> Zen Headbutt  
+<span class="type-electric">-</span> Thunder Punch  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/25-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/236.png"/>
+</div>
+<pre><span class="type-electric">Pikachu</span> @ Light Ball  
+<span class="attr">Ability: </span>Static  
+<span class="attr">Level: </span>27  
+<span class="attr">EVs: </span><span class="stat-atk">252 Atk</span> / <span class="stat-spe">60 Spe</span>  
+Adamant Nature  
+<span class="attr">IVs: </span><span class="stat-hp">17 HP</span> / <span class="stat-atk">17 Atk</span> / <span class="stat-def">17 Def</span> / <span class="stat-spa">17 SpA</span> / <span class="stat-spd">17 SpD</span> / <span class="stat-spe">17 Spe</span>  
+<span class="type-electric">-</span> Thunder Punch  
+<span class="type-normal">-</span> Fake Out  
+<span class="type-fairy">-</span> Play Rough  
+<span class="type-dark">-</span> Knock Off  
+
+</pre>
+</article>
+
+<a href="/trainer/98">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/100">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

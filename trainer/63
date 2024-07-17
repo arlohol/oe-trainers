@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>63. Rival Battle 3 (Torchic)</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/590-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/538.png"/>
+</div>
+<pre><span class="type-grass">Foongus</span> @ Eviolite  
+<span class="attr">Ability: </span>Regenerator  
+<span class="attr">Level: </span>25  
+<span class="attr">EVs: </span><span class="stat-hp">248 HP</span> / <span class="stat-def">24 Def</span> / <span class="stat-spa">168 SpA</span> / <span class="stat-spd">64 SpD</span>  
+Modest Nature  
+<span class="attr">IVs: </span><span class="stat-hp">20 HP</span> / <span class="stat-atk">20 Atk</span> / <span class="stat-def">20 Def</span> / <span class="stat-spa">20 SpA</span> / <span class="stat-spd">20 SpD</span> / <span class="stat-spe">20 Spe</span>  
+<span class="type-grass">-</span> Mega Drain  
+<span class="type-grass">-</span> Stun Spore  
+<span class="type-normal">-</span> Growth  
+<span class="type-poison">-</span> Clear Smog  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/279-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/186.png"/>
+</div>
+<pre><span class="type-water">Pelipper</span> @ <span class="type-electric">Wacan Berry</span>  
+<span class="attr">Ability: </span>Drizzle  
+<span class="attr">Level: </span>25  
+<span class="attr">EVs: </span><span class="stat-spa">236 SpA</span> / <span class="stat-spd">20 SpD</span> / <span class="stat-spe">240 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-hp">20 HP</span> / <span class="stat-atk">20 Atk</span> / <span class="stat-def">20 Def</span> / <span class="stat-spa">20 SpA</span> / <span class="stat-spd">20 SpD</span> / <span class="stat-spe">20 Spe</span>  
+<span class="type-water">-</span> Water Pulse  
+<span class="type-flying">-</span> Tailwind  
+<span class="type-dragon">-</span> Twister  
+<span class="type-flying">-</span> Gust  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/58-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/158.png"/>
+</div>
+<pre><span class="type-fire">Growlithe</span> @ Sitrus Berry  
+<span class="attr">Ability: </span>Intimidate  
+<span class="attr">Level: </span>25  
+<span class="attr">EVs: </span><span class="stat-hp">236 HP</span> / <span class="stat-atk">12 Atk</span> / <span class="stat-spd">244 SpD</span> / <span class="stat-spe">8 Spe</span>  
+Careful Nature  
+<span class="attr">IVs: </span><span class="stat-hp">20 HP</span> / <span class="stat-def">20 Def</span> / <span class="stat-spa">20 SpA</span> / <span class="stat-spd">20 SpD</span> / <span class="stat-spe">20 Spe</span>  
+<span class="type-fire">-</span> Flame Wheel  
+<span class="type-fire">-</span> Will-O-Wisp  
+<span class="type-fighting">-</span> Double Kick  
+<span class="type-dark">-</span> Bite  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/259-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/187.png"/>
+</div>
+<pre><span class="type-water">Marshtomp</span> @ <span class="type-grass">Rindo Berry</span>  
+<span class="attr">Ability: </span>Torrent  
+<span class="attr">Level: </span>26  
+<span class="attr">EVs: </span><span class="stat-hp">252 HP</span> / <span class="stat-atk">248 Atk</span>  
+Adamant Nature  
+<span class="type-rock">-</span> Rock Tomb  
+<span class="type-ice">-</span> Ice Punch  
+<span class="type-ground">-</span> Earthquake  
+- nomove  
+
+</pre>
+</article>
+
+<a href="/trainer/62">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/64">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>364. Expert Auron</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/699-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/271.png"/>
+</div>
+<pre><span class="type-rock">Aurorus</span> @ Power Herb  
+<span class="attr">Ability: </span>Snow Warning  
+<span class="attr">Level: </span>68  
+<span class="attr">EVs: </span><span class="stat-hp">252 HP</span> / <span class="stat-spa">252 SpA</span> / <span class="stat-spe">4 Spe</span>  
+Modest Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-ice">-</span> Blizzard  
+<span class="type-rock">-</span> Meteor Beam  
+<span class="type-ground">-</span> Earth Power  
+<span class="type-ice">-</span> Aurora Veil  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/866-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/275.png"/>
+</div>
+<pre><span class="type-ice">Mr. Rime</span> @ Focus Sash  
+<span class="attr">Ability: </span>Ice Body  
+<span class="attr">Level: </span>68  
+<span class="attr">EVs: </span><span class="stat-hp">248 HP</span> / <span class="stat-atk">8 Atk</span> / <span class="stat-spa">252 SpA</span>  
+Quiet Nature  
+<span class="type-ice">-</span> Blizzard  
+<span class="type-psychic">-</span> Psychic  
+<span class="type-grass">-</span> Energy Ball  
+<span class="type-normal">-</span> Fake Out  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/124-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/270.png"/>
+</div>
+<pre><span class="type-ice">Jynx</span> @ Life Orb  
+<span class="attr">Ability: </span>Oblivious  
+<span class="attr">Level: </span>68  
+<span class="attr">EVs: </span><span class="stat-spa">252 SpA</span> / <span class="stat-spe">252 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-ice">-</span> Icy Wind  
+<span class="type-ice">-</span> Blizzard  
+<span class="type-psychic">-</span> Psyshock  
+<span class="type-ice">-</span> Snowscape  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/461-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/581.png"/>
+</div>
+<pre><span class="type-dark">Weavile</span> @ Big Nugget  
+<span class="attr">Ability: </span>Pickpocket  
+<span class="attr">Level: </span>68  
+<span class="attr">EVs: </span><span class="stat-atk">252 Atk</span> / <span class="stat-spd">8 SpD</span> / <span class="stat-spe">248 Spe</span>  
+Jolly Nature  
+<span class="type-dark">-</span> Fling  
+<span class="type-ice">-</span> Ice Shard  
+<span class="type-ice">-</span> Ice Spinner  
+<span class="type-fighting">-</span> Brick Break  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/473-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/640.png"/>
+</div>
+<pre><span class="type-ice">Mamoswine</span> @ Assault Vest  
+<span class="attr">Ability: </span>Thick Fat  
+<span class="attr">Level: </span>68  
+<span class="attr">EVs: </span><span class="stat-hp">4 HP</span> / <span class="stat-atk">248 Atk</span> / <span class="stat-spd">8 SpD</span> / <span class="stat-spe">248 Spe</span>  
+Jolly Nature  
+<span class="type-normal">-</span> Facade  
+<span class="type-ice">-</span> Icicle Crash  
+<span class="type-ground">-</span> High Horsepower  
+<span class="type-rock">-</span> Rock Slide  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/881-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/220.png"/>
+</div>
+<pre><span class="type-electric">Arctozolt</span> @ Choice Band  
+<span class="attr">Ability: </span>Slush Rush  
+<span class="attr">Level: </span>68  
+<span class="attr">EVs: </span><span class="stat-hp">12 HP</span> / <span class="stat-atk">248 Atk</span> / <span class="stat-spe">248 Spe</span>  
+Adamant Nature  
+<span class="type-electric">-</span> Bolt Beak  
+<span class="type-ice">-</span> Icicle Crash  
+<span class="type-rock">-</span> Rock Slide  
+<span class="type-steel">-</span> Iron Tail  
+
+</pre>
+</article>
+
+<a href="/trainer/363">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/365">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

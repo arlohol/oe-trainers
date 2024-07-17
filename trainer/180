@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>180. Battle Girl Helene</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/460-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/184.png"/>
+</div>
+<pre><span class="type-grass">Abomasnow</span> @ <span class="type-fire">Occa Berry</span>  
+<span class="attr">Ability: </span>Snow Warning  
+<span class="attr">Level: </span>46  
+<span class="attr">EVs: </span><span class="stat-hp">200 HP</span> / <span class="stat-spa">228 SpA</span>  
+Quiet Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-ice">-</span> Aurora Veil  
+<span class="type-ice">-</span> Blizzard  
+<span class="type-grass">-</span> Energy Ball  
+<span class="type-ice">-</span> Snowscape  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/740-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/640.png"/>
+</div>
+<pre><span class="type-fighting">Crabominable</span> @ Assault Vest  
+<span class="attr">Ability: </span>Hyper Cutter  
+<span class="attr">Level: </span>47  
+<span class="attr">EVs: </span><span class="stat-hp">252 HP</span> / <span class="stat-spd">176 SpD</span>  
+Careful Nature  
+<span class="type-ice">-</span> Ice Hammer  
+<span class="type-fighting">-</span> Drain Punch  
+<span class="type-water">-</span> Liquidation  
+<span class="type-fighting">-</span> Bulk Up  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/461-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/1882.png"/>
+</div>
+<pre><span class="type-dark">Weavile</span> @ Clear Amulet  
+<span class="attr">Ability: </span>Slush Rush  
+<span class="attr">Level: </span>46  
+<span class="attr">EVs: </span><span class="stat-atk">248 Atk</span> / <span class="stat-spd">8 SpD</span> / <span class="stat-spe">172 Spe</span>  
+Adamant Nature  
+<span class="type-dark">-</span> Night Slash  
+<span class="type-ice">-</span> Icicle Crash  
+<span class="type-ice">-</span> Ice Shard  
+<span class="type-fighting">-</span> Brick Break  
+
+</pre>
+</article>
+
+<a href="/trainer/179">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/181">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>391. Fisherman Ronald</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/730-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/269.png"/>
+</div>
+<pre><span class="type-water">Primarina</span> @ Light Clay  
+<span class="attr">Ability: </span>Liquid Voice  
+<span class="attr">Level: </span>67  
+<span class="attr">EVs: </span><span class="stat-hp">252 HP</span> / <span class="stat-def">252 Def</span> / <span class="stat-spd">4 SpD</span>  
+Modest Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-psychic">-</span> Light Screen  
+<span class="type-psychic">-</span> Reflect  
+<span class="type-normal">-</span> Hyper Voice  
+<span class="type-normal">-</span> Helping Hand  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/350-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/234.png"/>
+</div>
+<pre><span class="type-water">Milotic</span> @ Leftovers  
+<span class="attr">Ability: </span>Competitive  
+<span class="attr">Level: </span>67  
+<span class="attr">EVs: </span><span class="stat-hp">252 HP</span> / <span class="stat-def">248 Def</span> / <span class="stat-spa">8 SpA</span>  
+Bold Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-water">-</span> Life Dew  
+<span class="type-ice">-</span> Icy Wind  
+<span class="type-water">-</span> Scald  
+<span class="type-normal">-</span> Substitute  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/689-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/640.png"/>
+</div>
+<pre><span class="type-rock">Barbaracle</span> @ Assault Vest  
+<span class="attr">Ability: </span>Tough Claws  
+<span class="attr">Level: </span>68  
+<span class="attr">EVs: </span><span class="stat-hp">252 HP</span> / <span class="stat-atk">252 Atk</span> / <span class="stat-spd">4 SpD</span>  
+Adamant Nature  
+<span class="type-rock">-</span> Stone Edge  
+<span class="type-water">-</span> Razor Shell  
+<span class="type-fighting">-</span> Superpower  
+<span class="type-rock">-</span> Rock Slide  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/184-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/220.png"/>
+</div>
+<pre><span class="type-water">Azumarill</span> @ Choice Band  
+<span class="attr">Ability: </span>Huge Power  
+<span class="attr">Level: </span>67  
+<span class="attr">EVs: </span><span class="stat-hp">248 HP</span> / <span class="stat-atk">248 Atk</span> / <span class="stat-spd">8 SpD</span> / <span class="stat-spe">4 Spe</span>  
+Adamant Nature  
+<span class="type-water">-</span> Aqua Jet  
+<span class="type-water">-</span> Liquidation  
+<span class="type-fairy">-</span> Play Rough  
+<span class="type-fighting">-</span> Superpower  
+
+</pre>
+</article>
+
+<a href="/trainer/390">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/392">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

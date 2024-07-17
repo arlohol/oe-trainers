@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>154. Battle Girl Danielle</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/308-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/249.png"/>
+</div>
+<pre><span class="type-fighting">Medicham</span> @ <span class="type-fire">Charcoal</span>  
+<span class="attr">Ability: </span>Pure Power  
+<span class="attr">Level: </span>38  
+<span class="attr">EVs: </span><span class="stat-atk">252 Atk</span> / <span class="stat-spe">152 Spe</span>  
+Adamant Nature  
+<span class="attr">IVs: </span><span class="stat-hp">21 HP</span> / <span class="stat-atk">21 Atk</span> / <span class="stat-def">21 Def</span> / <span class="stat-spa">21 SpA</span> / <span class="stat-spd">21 SpD</span> / <span class="stat-spe">21 Spe</span>  
+<span class="type-fighting">-</span> Force Palm  
+<span class="type-fighting">-</span> Detect  
+<span class="type-psychic">-</span> Zen Headbutt  
+<span class="type-fire">-</span> Fire Punch  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/126-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/158.png"/>
+</div>
+<pre><span class="type-fire">Magmar</span> @ Sitrus Berry  
+<span class="attr">Ability: </span>Flame Body  
+<span class="attr">Level: </span>37  
+<span class="attr">EVs: </span><span class="stat-hp">156 HP</span> / <span class="stat-def">244 Def</span>  
+Bold Nature  
+<span class="attr">IVs: </span><span class="stat-hp">21 HP</span> / <span class="stat-atk">21 Atk</span> / <span class="stat-def">21 Def</span> / <span class="stat-spa">21 SpA</span> / <span class="stat-spd">21 SpD</span> / <span class="stat-spe">21 Spe</span>  
+<span class="type-normal">-</span> Follow Me  
+<span class="type-fire">-</span> Will-O-Wisp  
+<span class="type-fire">-</span> Fire Spin  
+
+</pre>
+</article>
+
+<a href="/trainer/153">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/155">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

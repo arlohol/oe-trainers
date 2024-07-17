@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>312. Team Magma Grunt 2</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/359-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/686.png"/>
+</div>
+<pre><span class="type-dark">Absol</span> @ <span class="type-fairy">Roseli Berry</span>  
+<span class="attr">Ability: </span>Justified  
+<span class="attr">Level: </span>58  
+<span class="attr">EVs: </span><span class="stat-hp">248 HP</span> / <span class="stat-atk">252 Atk</span> / <span class="stat-spd">4 SpD</span> / <span class="stat-spe">4 Spe</span>  
+Adamant Nature  
+<span class="type-dark">-</span> Night Slash  
+<span class="type-rock">-</span> Rock Slide  
+<span class="type-bug">-</span> X-Scissor  
+<span class="type-fire">-</span> Will-O-Wisp  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/758-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/541.png"/>
+</div>
+<pre><span class="type-poison">Salazzle</span> @ Air Balloon  
+<span class="attr">Ability: </span>Corrosion  
+<span class="attr">Level: </span>58  
+<span class="attr">EVs: </span><span class="stat-hp">4 HP</span> / <span class="stat-spa">252 SpA</span> / <span class="stat-spe">252 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-dark">-</span> Beat Up  
+<span class="type-fire">-</span> Flamethrower  
+<span class="type-poison">-</span> Sludge Bomb  
+<span class="type-normal">-</span> Fake Out  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/338-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/639.png"/>
+</div>
+<pre><span class="type-rock">Solrock</span> @ Weakness Policy  
+<span class="attr">Ability: </span>Solid Rock  
+<span class="attr">Level: </span>58  
+<span class="attr">EVs: </span><span class="stat-hp">248 HP</span> / <span class="stat-atk">248 Atk</span> / <span class="stat-spd">12 SpD</span>  
+Adamant Nature  
+<span class="type-fire">-</span> Flare Blitz  
+<span class="type-rock">-</span> Stone Edge  
+<span class="type-psychic">-</span> Zen Headbutt  
+<span class="type-normal">-</span> Morning Sun  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/899-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/640.png"/>
+</div>
+<pre><span class="type-normal">Wyrdeer</span> @ Assault Vest  
+<span class="attr">Ability: </span>Intimidate  
+<span class="attr">Level: </span>58  
+<span class="attr">EVs: </span><span class="stat-hp">252 HP</span> / <span class="stat-atk">252 Atk</span> / <span class="stat-spd">4 SpD</span>  
+Adamant Nature  
+<span class="type-psychic">-</span> Psyshield Bash  
+<span class="type-dark">-</span> Sucker Punch  
+<span class="type-grass">-</span> Trailblaze  
+<span class="type-ground">-</span> High Horsepower  
+
+</pre>
+</article>
+
+<a href="/trainer/311">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/313">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

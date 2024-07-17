@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>258. Birdkeeper Edwardo</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/279-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/243.png"/>
+</div>
+<pre><span class="type-water">Pelipper</span> @ <span class="type-water">Mystic Water</span>  
+<span class="attr">Ability: </span>Drizzle  
+<span class="attr">Level: </span>53  
+<span class="attr">EVs: </span><span class="stat-hp">244 HP</span> / <span class="stat-spa">252 SpA</span> / <span class="stat-spd">12 SpD</span>  
+Modest Nature  
+<span class="attr">IVs: </span><span class="stat-hp">26 HP</span> / <span class="stat-atk">26 Atk</span> / <span class="stat-def">26 Def</span> / <span class="stat-spa">26 SpA</span> / <span class="stat-spd">26 SpD</span> / <span class="stat-spe">26 Spe</span>  
+<span class="type-flying">-</span> Hurricane  
+<span class="type-normal">-</span> Weather Ball  
+<span class="type-rock">-</span> Wide Guard  
+<span class="type-water">-</span> Rain Dance  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/426-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/242.png"/>
+</div>
+<pre><span class="type-ghost">Drifblim</span> @ <span class="type-electric">Magnet</span>  
+<span class="attr">Ability: </span>Aftermath  
+<span class="attr">Level: </span>53  
+<span class="attr">EVs: </span><span class="stat-spa">252 SpA</span> / <span class="stat-spd">4 SpD</span> / <span class="stat-spe">252 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-hp">26 HP</span> / <span class="stat-atk">26 Atk</span> / <span class="stat-def">26 Def</span> / <span class="stat-spa">26 SpA</span> / <span class="stat-spd">26 SpD</span> / <span class="stat-spe">26 Spe</span>  
+<span class="type-electric">-</span> Thunder  
+<span class="type-ghost">-</span> Shadow Ball  
+<span class="type-psychic">-</span> Psychic  
+<span class="type-normal">-</span> Weather Ball  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/18-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/297.png"/>
+</div>
+<pre><span class="type-normal">Pidgeot</span> @ Choice Specs  
+<span class="attr">Ability: </span>Big Pecks  
+<span class="attr">Level: </span>53  
+<span class="attr">EVs: </span><span class="stat-spa">252 SpA</span> / <span class="stat-spd">4 SpD</span> / <span class="stat-spe">252 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-hp">26 HP</span> / <span class="stat-atk">26 Atk</span> / <span class="stat-def">26 Def</span> / <span class="stat-spa">26 SpA</span> / <span class="stat-spd">26 SpD</span> / <span class="stat-spe">26 Spe</span>  
+<span class="type-flying">-</span> Hurricane  
+<span class="type-dragon">-</span> Twister  
+<span class="type-normal">-</span> Uproar  
+<span class="type-fire">-</span> Heat Wave  
+
+</pre>
+</article>
+
+<a href="/trainer/257">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/259">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>384. Swimmer Dean</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/0-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/640.png"/>
+</div>
+<pre>Samurott-Hisui @ Assault Vest  
+<span class="attr">Ability: </span>Sharpness  
+<span class="attr">Level: </span>69  
+<span class="attr">EVs: </span><span class="stat-hp">4 HP</span> / <span class="stat-atk">248 Atk</span> / <span class="stat-spe">252 Spe</span>  
+Jolly Nature  
+<span class="type-dark">-</span> Ceaseless Edge  
+<span class="type-water">-</span> Razor Shell  
+<span class="type-ground">-</span> Drill Run  
+<span class="type-fighting">-</span> Sacred Sword  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/658-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/1886.png"/>
+</div>
+<pre><span class="type-water">Greninja</span> @ Loaded Dice  
+<span class="attr">Ability: </span>Protean  
+<span class="attr">Level: </span>69  
+<span class="attr">EVs: </span><span class="stat-spa">252 SpA</span> / <span class="stat-spd">4 SpD</span> / <span class="stat-spe">252 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-water">-</span> Water Shuriken  
+<span class="type-dark">-</span> Dark Pulse  
+<span class="type-water">-</span> Scald  
+<span class="type-ice">-</span> Ice Beam  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/342-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/270.png"/>
+</div>
+<pre><span class="type-water">Crawdaunt</span> @ Life Orb  
+<span class="attr">Ability: </span>Adaptability  
+<span class="attr">Level: </span>69  
+<span class="attr">EVs: </span><span class="stat-hp">248 HP</span> / <span class="stat-atk">252 Atk</span> / <span class="stat-spd">8 SpD</span>  
+Adamant Nature  
+<span class="type-water">-</span> Crabhammer  
+<span class="type-water">-</span> Aqua Jet  
+<span class="type-fighting">-</span> Close Combat  
+<span class="type-dark">-</span> Crunch  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/367-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/220.png"/>
+</div>
+<pre><span class="type-water">Huntail</span> @ Choice Band  
+<span class="attr">Ability: </span>Water Veil  
+<span class="attr">Level: </span>69  
+<span class="attr">EVs: </span><span class="stat-hp">248 HP</span> / <span class="stat-atk">252 Atk</span> / <span class="stat-spd">8 SpD</span>  
+Adamant Nature  
+<span class="type-water">-</span> Aqua Tail  
+<span class="type-dark">-</span> Crunch  
+<span class="type-normal">-</span> Double-Edge  
+<span class="type-flying">-</span> Bounce  
+
+</pre>
+</article>
+
+<a href="/trainer/383">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/385">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

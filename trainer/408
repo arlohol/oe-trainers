@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>408. Sailor Hudson</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/853-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/158.png"/>
+</div>
+<pre><span class="type-fighting">Grapploct</span> @ Sitrus Berry  
+<span class="attr">Ability: </span>Technician  
+<span class="attr">Level: </span>68  
+<span class="attr">EVs: </span><span class="stat-hp">248 HP</span> / <span class="stat-atk">152 Atk</span>  
+Adamant Nature  
+<span class="type-fighting">-</span> Detect  
+<span class="type-water">-</span> Jet Punch  
+<span class="type-fighting">-</span> Bulk Up  
+<span class="type-fighting">-</span> Revenge  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/91-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/275.png"/>
+</div>
+<pre><span class="type-water">Cloyster</span> @ Focus Sash  
+<span class="attr">Ability: </span>Skill Link  
+<span class="attr">Level: </span>68  
+<span class="attr">EVs: </span><span class="stat-atk">216 Atk</span> / <span class="stat-spe">188 Spe</span>  
+Adamant Nature  
+<span class="type-ice">-</span> Icicle Spear  
+<span class="type-rock">-</span> Rock Blast  
+<span class="type-normal">-</span> Explosion  
+<span class="type-normal">-</span> Shell Smash  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/781-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/270.png"/>
+</div>
+<pre><span class="type-ghost">Dhelmise</span> @ Life Orb  
+<span class="attr">Ability: </span>Steelworker  
+<span class="attr">Level: </span>69  
+<span class="attr">EVs: </span><span class="stat-hp">216 HP</span> / <span class="stat-atk">180 Atk</span> / <span class="stat-spd">8 SpD</span>  
+Adamant Nature  
+<span class="type-steel">-</span> Anchor Shot  
+<span class="type-grass">-</span> Power Whip  
+<span class="type-ghost">-</span> Poltergeist  
+<span class="type-grass">-</span> Synthesis  
+
+</pre>
+</article>
+
+<a href="/trainer/407">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/409">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

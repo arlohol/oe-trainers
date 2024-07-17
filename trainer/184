@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>184. Ruin Maniac Foster</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/28-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/237.png"/>
+</div>
+<pre><span class="type-ground">Sandslash</span> @ <span class="type-ground">Soft Sand</span>  
+<span class="attr">Ability: </span>Sand Rush  
+<span class="attr">Level: </span>46  
+<span class="attr">EVs: </span><span class="stat-atk">252 Atk</span> / <span class="stat-spe">172 Spe</span>  
+Adamant Nature  
+<span class="attr">IVs: </span><span class="stat-hp">25 HP</span> / <span class="stat-atk">25 Atk</span> / <span class="stat-def">25 Def</span> / <span class="stat-spa">25 SpA</span> / <span class="stat-spd">25 SpD</span> / <span class="stat-spe">25 Spe</span>  
+<span class="type-ground">-</span> Earthquake  
+<span class="type-normal">-</span> Slash  
+<span class="type-rock">-</span> Rock Slide  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/526-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/541.png"/>
+</div>
+<pre><span class="type-rock">Gigalith</span> @ Air Balloon  
+<span class="attr">Ability: </span>Sand Stream  
+<span class="attr">Level: </span>45  
+<span class="attr">EVs: </span><span class="stat-hp">180 HP</span> / <span class="stat-def">248 Def</span>  
+Relaxed Nature  
+<span class="attr">IVs: </span><span class="stat-hp">25 HP</span> / <span class="stat-atk">25 Atk</span> / <span class="stat-def">25 Def</span> / <span class="stat-spa">25 SpA</span> / <span class="stat-spd">25 SpD</span> / <span class="stat-spe">25 Spe</span>  
+<span class="type-fighting">-</span> Body Press  
+<span class="type-rock">-</span> Rock Slide  
+<span class="type-steel">-</span> Iron Head  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/472-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/270.png"/>
+</div>
+<pre><span class="type-ground">Gliscor</span> @ Life Orb  
+<span class="attr">Ability: </span>Sand Veil  
+<span class="attr">Level: </span>45  
+<span class="attr">EVs: </span><span class="stat-atk">180 Atk</span> / <span class="stat-spe">248 Spe</span>  
+Jolly Nature  
+<span class="attr">IVs: </span><span class="stat-hp">25 HP</span> / <span class="stat-atk">25 Atk</span> / <span class="stat-def">25 Def</span> / <span class="stat-spa">25 SpA</span> / <span class="stat-spd">25 SpD</span> / <span class="stat-spe">25 Spe</span>  
+<span class="type-ground">-</span> Earthquake  
+<span class="type-ground">-</span> Bulldoze  
+<span class="type-flying">-</span> Aerial Ace  
+<span class="type-rock">-</span> Sandstorm  
+
+</pre>
+</article>
+
+<a href="/trainer/183">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/185">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

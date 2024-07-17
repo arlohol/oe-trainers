@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>454. Cooltrainer Dianne</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/3-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/270.png"/>
+</div>
+<pre><span class="type-grass">Venusaur</span> @ Life Orb  
+<span class="attr">Ability: </span>Chlorophyll  
+<span class="attr">Level: </span>85  
+<span class="attr">EVs: </span><span class="stat-hp">8 HP</span> / <span class="stat-spa">248 SpA</span> / <span class="stat-spe">252 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-grass">-</span> Leaf Storm  
+<span class="type-normal">-</span> Weather Ball  
+<span class="type-ground">-</span> Earth Power  
+<span class="type-grass">-</span> Sleep Powder  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/38-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/275.png"/>
+</div>
+<pre><span class="type-fire">Ninetales</span> @ Focus Sash  
+<span class="attr">Ability: </span>Drought  
+<span class="attr">Level: </span>85  
+<span class="attr">EVs: </span><span class="stat-hp">4 HP</span> / <span class="stat-spa">252 SpA</span> / <span class="stat-spe">252 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-fire">-</span> Heat Wave  
+<span class="type-fire">-</span> Will-O-Wisp  
+<span class="type-dark">-</span> Fake Tears  
+<span class="type-grass">-</span> Energy Ball  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/823-1.png"/>
+</div>
+<pre><span class="type-flying">Corviknight-Gmax</span>  
+<span class="attr">Ability: </span>Mirror Armor  
+<span class="attr">Level: </span>85  
+<span class="attr">EVs: </span><span class="stat-hp">252 HP</span> / <span class="stat-atk">84 Atk</span> / <span class="stat-def">12 Def</span> / <span class="stat-spd">4 SpD</span> / <span class="stat-spe">156 Spe</span>  
+Adamant Nature  
+<span class="type-steel">-</span> Iron Head  
+<span class="type-flying">-</span> Brave Bird  
+<span class="type-flying">-</span> Roost  
+<span class="type-flying">-</span> Tailwind  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/423-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/187.png"/>
+</div>
+<pre><span class="type-water">Gastrodon</span> @ <span class="type-grass">Rindo Berry</span>  
+<span class="attr">Ability: </span>Storm Drain  
+<span class="attr">Level: </span>85  
+<span class="attr">EVs: </span><span class="stat-hp">244 HP</span> / <span class="stat-def">148 Def</span> / <span class="stat-spa">56 SpA</span> / <span class="stat-spd">56 SpD</span> / <span class="stat-spe">4 Spe</span>  
+Modest Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-water">-</span> Scald  
+<span class="type-ground">-</span> Earth Power  
+<span class="type-normal">-</span> Recover  
+<span class="type-poison">-</span> Sludge Bomb  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/700-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/644.png"/>
+</div>
+<pre><span class="type-fairy">Sylveon</span> @ <span class="type-fairy">Pixie Plate</span>  
+<span class="attr">Ability: </span>Pixilate  
+<span class="attr">Level: </span>85  
+<span class="attr">EVs: </span><span class="stat-hp">100 HP</span> / <span class="stat-def">4 Def</span> / <span class="stat-spa">156 SpA</span> / <span class="stat-spd">4 SpD</span> / <span class="stat-spe">244 Spe</span>  
+Modest Nature  
+<span class="type-normal">-</span> Hyper Voice  
+<span class="type-normal">-</span> Quick Attack  
+<span class="type-fairy">-</span> Baby-Doll Eyes  
+<span class="type-fire">-</span> Mystical Fire  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/248-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/639.png"/>
+</div>
+<pre><span class="type-rock">Tyranitar</span> (<span class="gender-m">M</span>) @ Weakness Policy  
+<span class="attr">Ability: </span>Sand Stream  
+<span class="attr">Level: </span>85  
+<span class="attr">EVs: </span><span class="stat-hp">244 HP</span> / <span class="stat-atk">132 Atk</span> / <span class="stat-def">52 Def</span> / <span class="stat-spd">60 SpD</span> / <span class="stat-spe">20 Spe</span>  
+Adamant Nature  
+<span class="type-rock">-</span> Rock Slide  
+<span class="type-dark">-</span> Crunch  
+<span class="type-fighting">-</span> Superpower  
+<span class="type-ice">-</span> Ice Punch  
+
+</pre>
+</article>
+
+<a href="/trainer/453">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/455">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

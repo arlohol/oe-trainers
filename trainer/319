@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>319. Team Magma Grunt 9</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/262-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/189.png"/>
+</div>
+<pre><span class="type-dark">Mightyena</span> @ <span class="type-fighting">Chople Berry</span>  
+<span class="attr">Ability: </span>Intimidate  
+<span class="attr">Level: </span>61  
+<span class="attr">EVs: </span><span class="stat-hp">160 HP</span> / <span class="stat-spe">248 Spe</span>  
+Naive Nature  
+<span class="type-dark">-</span> Snarl  
+<span class="type-normal">-</span> Howl  
+<span class="type-dark">-</span> Crunch  
+<span class="type-normal">-</span> Yawn  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/823-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/234.png"/>
+</div>
+<pre><span class="type-flying">Corviknight</span> @ Leftovers  
+<span class="attr">Ability: </span>Mirror Armor  
+<span class="attr">Level: </span>61  
+<span class="attr">EVs: </span><span class="stat-hp">252 HP</span> / <span class="stat-def">156 Def</span>  
+Impish Nature  
+<span class="type-flying">-</span> Brave Bird  
+<span class="type-steel">-</span> Iron Head  
+<span class="type-flying">-</span> Roost  
+<span class="type-flying">-</span> Tailwind  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/586-2.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/275.png"/>
+</div>
+<pre><span class="type-normal">Sawsbuck-Autumn</span> @ Focus Sash  
+<span class="attr">Ability: </span>Serene Grace  
+<span class="attr">Level: </span>61  
+<span class="attr">EVs: </span><span class="stat-atk">196 Atk</span> / <span class="stat-spd">4 SpD</span> / <span class="stat-spe">208 Spe</span>  
+Jolly Nature  
+<span class="type-normal">-</span> Headbutt  
+<span class="type-grass">-</span> Horn Leech  
+<span class="type-grass">-</span> Leech Seed  
+<span class="type-ground">-</span> Stomping Tantrum  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/500-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/159.png"/>
+</div>
+<pre><span class="type-fire">Emboar</span> @ Figy Berry  
+<span class="attr">Ability: </span>Reckless  
+<span class="attr">Level: </span>61  
+<span class="attr">EVs: </span><span class="stat-hp">156 HP</span> / <span class="stat-atk">248 Atk</span> / <span class="stat-def">4 Def</span>  
+Adamant Nature  
+<span class="type-fire">-</span> Flare Blitz  
+<span class="type-electric">-</span> Wild Charge  
+<span class="type-fighting">-</span> Brick Break  
+<span class="type-rock">-</span> Head Smash  
+
+</pre>
+</article>
+
+<a href="/trainer/318">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/320">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

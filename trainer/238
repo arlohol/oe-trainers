@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>238. Bird Keeper Hugh</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/130-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/186.png"/>
+</div>
+<pre><span class="type-water">Gyarados</span> @ <span class="type-electric">Wacan Berry</span>  
+<span class="attr">Ability: </span>Intimidate  
+<span class="attr">Level: </span>51  
+<span class="attr">EVs: </span><span class="stat-atk">108 Atk</span> / <span class="stat-spe">252 Spe</span>  
+Adamant Nature  
+<span class="type-ground">-</span> Earthquake  
+<span class="type-water">-</span> Waterfall  
+<span class="type-grass">-</span> Power Whip  
+<span class="type-dragon">-</span> Dragon Dance  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/279-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/219.png"/>
+</div>
+<pre><span class="type-water">Pelipper</span> @ Mental Herb  
+<span class="attr">Ability: </span>Rain Dish  
+<span class="attr">Level: </span>50  
+<span class="attr">EVs: </span><span class="stat-hp">164 HP</span> / <span class="stat-spe">196 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-normal">-</span> Weather Ball  
+<span class="type-flying">-</span> Hurricane  
+<span class="type-flying">-</span> Tailwind  
+<span class="type-rock">-</span> Wide Guard  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/164-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/275.png"/>
+</div>
+<pre><span class="type-normal">Noctowl</span> @ Focus Sash  
+<span class="attr">Ability: </span>Tinted Lens  
+<span class="attr">Level: </span>50  
+<span class="attr">EVs: </span><span class="stat-spa">252 SpA</span> / <span class="stat-spe">108 Spe</span>  
+Modest Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-flying">-</span> Hurricane  
+<span class="type-fairy">-</span> Moonblast  
+<span class="type-ghost">-</span> Shadow Ball  
+<span class="type-dark">-</span> Nasty Plot  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/0-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/158.png"/>
+</div>
+<pre>Braviary-Hisui @ Sitrus Berry  
+<span class="attr">Ability: </span>Keen Eye  
+<span class="attr">Level: </span>51  
+<span class="attr">EVs: </span><span class="stat-hp">96 HP</span> / <span class="stat-def">8 Def</span> / <span class="stat-spa">96 SpA</span> / <span class="stat-spd">8 SpD</span> / <span class="stat-spe">156 Spe</span>  
+Modest Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-psychic">-</span> Esper Wing  
+<span class="type-flying">-</span> Hurricane  
+<span class="type-flying">-</span> Roost  
+<span class="type-normal">-</span> Substitute  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/0-0.png"/>
+</div>
+<pre>Sirfetch’d @ Leek  
+Ability: Steadfast  
+Level: 51  
+EVs: 252 Atk / 112 Spe  
+Adamant Nature  
+- Brave Bird  
+- Close Combat  
+- First Impression  
+- Detect  
+</pre>
+</article>
+
+<a href="/trainer/237">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/239">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

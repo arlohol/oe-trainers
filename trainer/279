@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>279. Pokefan Vanessa</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/981-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/219.png"/>
+</div>
+<pre><span class="type-normal">Farigiraf</span> @ Mental Herb  
+<span class="attr">Ability: </span>Armor Tail  
+<span class="attr">Level: </span>56  
+<span class="attr">Tera Type: </span><span class="type-normal">Normal</span>  
+<span class="attr">EVs: </span><span class="stat-hp">252 HP</span> / <span class="stat-spa">204 SpA</span> / <span class="stat-spd">4 SpD</span>  
+Quiet Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span> / <span class="stat-spe">0 Spe</span>  
+<span class="type-normal">-</span> Hyper Voice  
+<span class="type-fairy">-</span> Dazzling Gleam  
+<span class="type-dark">-</span> Nasty Plot  
+<span class="type-psychic">-</span> Trick Room  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/184-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/253.png"/>
+</div>
+<pre><span class="type-water">Azumarill</span> @ Shell Bell  
+<span class="attr">Ability: </span>Huge Power  
+<span class="attr">Level: </span>56  
+<span class="attr">Tera Type: </span><span class="type-water">Water</span>  
+<span class="attr">EVs: </span><span class="stat-hp">200 HP</span> / <span class="stat-atk">252 Atk</span> / <span class="stat-spd">8 SpD</span>  
+Brave Nature  
+<span class="attr">IVs: </span><span class="stat-spe">0 Spe</span>  
+<span class="type-water">-</span> Aqua Jet  
+<span class="type-water">-</span> Liquidation  
+<span class="type-fairy">-</span> Play Rough  
+<span class="type-normal">-</span> Belly Drum  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/730-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/1118.png"/>
+</div>
+<pre><span class="type-water">Primarina</span> @ Throat Spray  
+<span class="attr">Ability: </span>Liquid Voice  
+<span class="attr">Level: </span>56  
+<span class="attr">Tera Type: </span><span class="type-water">Water</span>  
+<span class="attr">EVs: </span><span class="stat-hp">208 HP</span> / <span class="stat-spa">252 SpA</span> / <span class="stat-spd">4 SpD</span>  
+Quiet Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span> / <span class="stat-spe">0 Spe</span>  
+<span class="type-normal">-</span> Hyper Voice  
+<span class="type-fairy">-</span> Moonblast  
+<span class="type-ghost">-</span> Shadow Ball  
+<span class="type-grass">-</span> Energy Ball  
+
+</pre>
+</article>
+
+<a href="/trainer/278">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/280">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

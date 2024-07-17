@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>345. Swimmer Roland</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/319-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/540.png"/>
+</div>
+<pre><span class="type-water">Sharpedo</span> @ Rocky Helmet  
+<span class="attr">Ability: </span>Rough Skin  
+<span class="attr">Level: </span>68  
+<span class="attr">Tera Type: </span><span class="type-water">Water</span>  
+<span class="attr">EVs: </span><span class="stat-atk">228 Atk</span> / <span class="stat-spe">228 Spe</span>  
+Jolly Nature  
+<span class="type-dark">-</span> Taunt  
+<span class="type-water">-</span> Flip Turn  
+<span class="type-water">-</span> Waterfall  
+<span class="type-water">-</span> Aqua Jet  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/902-1.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/275.png"/>
+</div>
+<pre><span class="type-water">Basculegion-F</span> @ Focus Sash  
+<span class="attr">Ability: </span>Mold Breaker  
+<span class="attr">Level: </span>69  
+<span class="attr">Tera Type: </span><span class="type-water">Water</span>  
+<span class="attr">EVs: </span><span class="stat-hp">212 HP</span> / <span class="stat-atk">248 Atk</span>  
+Adamant Nature  
+<span class="type-water">-</span> Liquidation  
+<span class="type-psychic">-</span> Zen Headbutt  
+<span class="type-ghost">-</span> Poltergeist  
+<span class="type-water">-</span> Flip Turn  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/472-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/188.png"/>
+</div>
+<pre><span class="type-ground">Gliscor</span> @ <span class="type-ice">Yache Berry</span>  
+<span class="attr">Ability: </span>Hyper Cutter  
+<span class="attr">Level: </span>70  
+<span class="attr">Tera Type: </span><span class="type-ground">Ground</span>  
+<span class="attr">EVs: </span><span class="stat-atk">216 Atk</span> / <span class="stat-spe">248 Spe</span>  
+Jolly Nature  
+<span class="type-water">-</span> Crabhammer  
+<span class="type-ground">-</span> High Horsepower  
+<span class="type-poison">-</span> Poison Jab  
+<span class="type-normal">-</span> Swords Dance  
+
+</pre>
+</article>
+
+<a href="/trainer/344">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/346">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

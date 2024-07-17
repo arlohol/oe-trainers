@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>4. Youngster Willie</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/263-0.png"/>
+</div>
+<pre><span class="type-normal">Zigzagoon</span>  
+<span class="attr">Ability: </span>Quick Feet  
+<span class="attr">Level: </span>4  
+Jolly Nature  
+<span class="attr">IVs: </span><span class="stat-hp">10 HP</span> / <span class="stat-def">10 Def</span> / <span class="stat-spa">10 SpA</span> / <span class="stat-spd">10 SpD</span> / <span class="stat-spe">10 Spe</span>  
+<span class="type-normal">-</span> Tail Whip  
+<span class="type-normal">-</span> Helping Hand  
+<span class="type-normal">-</span> Work Up  
+<span class="type-normal">-</span> Covet  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/263-1.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/155.png"/>
+</div>
+<pre><span class="type-dark">Zigzagoon-Galar</span> @ Oran Berry  
+<span class="attr">Ability: </span>Gluttony  
+<span class="attr">Level: </span>4  
+Jolly Nature  
+<span class="attr">IVs: </span><span class="stat-hp">10 HP</span> / <span class="stat-atk">10 Atk</span> / <span class="stat-def">10 Def</span> / <span class="stat-spa">10 SpA</span> / <span class="stat-spd">10 SpD</span> / <span class="stat-spe">10 Spe</span>  
+<span class="type-normal">-</span> Tackle  
+<span class="type-fairy">-</span> Baby-Doll Eyes  
+<span class="type-normal">-</span> Work Up  
+
+</pre>
+</article>
+
+<a href="/trainer/3">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/5">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

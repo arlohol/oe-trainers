@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>90. Triathlete Dylan</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/84-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/186.png"/>
+</div>
+<pre><span class="type-normal">Doduo</span> @ <span class="type-electric">Wacan Berry</span>  
+<span class="attr">Ability: </span>Reckless  
+<span class="attr">Level: </span>27  
+<span class="attr">EVs: </span><span class="stat-spe">196 Spe</span>  
+Jolly Nature  
+<span class="attr">IVs: </span><span class="stat-hp">20 HP</span> / <span class="stat-atk">20 Atk</span> / <span class="stat-def">20 Def</span> / <span class="stat-spa">20 SpA</span> / <span class="stat-spd">20 SpD</span> / <span class="stat-spe">20 Spe</span>  
+<span class="type-normal">-</span> Take Down  
+<span class="type-flying">-</span> Acrobatics  
+<span class="type-bug">-</span> Lunge  
+<span class="type-fighting">-</span> Jump Kick  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/162-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/564.png"/>
+</div>
+<pre><span class="type-normal">Furret</span> @ <span class="type-normal">Normal Gem</span>  
+<span class="attr">Ability: </span>Adaptability  
+<span class="attr">Level: </span>27  
+<span class="attr">EVs: </span><span class="stat-spe">196 Spe</span>  
+Jolly Nature  
+<span class="type-normal">-</span> Covet  
+<span class="type-ice">-</span> Ice Punch  
+<span class="type-electric">-</span> Thunder Punch  
+<span class="type-grass">-</span> Trailblaze  
+
+</pre>
+</article>
+
+<a href="/trainer/89">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/91">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

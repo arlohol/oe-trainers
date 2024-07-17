@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>148. Picnicker Autumn</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/254-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/163.png"/>
+</div>
+<pre><span class="type-grass">Sceptile</span> @ Iapapa Berry  
+<span class="attr">Ability: </span>Unburden  
+<span class="attr">Level: </span>36  
+<span class="attr">EVs: </span><span class="stat-atk">152 Atk</span> / <span class="stat-spe">248 Spe</span>  
+Jolly Nature  
+<span class="attr">IVs: </span><span class="stat-hp">23 HP</span> / <span class="stat-atk">23 Atk</span> / <span class="stat-def">23 Def</span> / <span class="stat-spa">23 SpA</span> / <span class="stat-spd">23 SpD</span> / <span class="stat-spe">23 Spe</span>  
+<span class="type-grass">-</span> Leaf Blade  
+<span class="type-flying">-</span> Acrobatics  
+<span class="type-dragon">-</span> Dragon Claw  
+<span class="type-normal">-</span> Shed Tail  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/899-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/234.png"/>
+</div>
+<pre><span class="type-normal">Wyrdeer</span> @ Leftovers  
+<span class="attr">Ability: </span>Intimidate  
+<span class="attr">Level: </span>36  
+<span class="attr">EVs: </span><span class="stat-hp">164 HP</span> / <span class="stat-spa">248 SpA</span>  
+Modest Nature  
+<span class="attr">IVs: </span><span class="stat-hp">23 HP</span> / <span class="stat-atk">0 Atk</span> / <span class="stat-def">23 Def</span> / <span class="stat-spa">23 SpA</span> / <span class="stat-spd">23 SpD</span> / <span class="stat-spe">23 Spe</span>  
+<span class="type-normal">-</span> Uproar  
+- Psychic Noise  
+<span class="type-grass">-</span> Energy Ball  
+<span class="type-normal">-</span> Substitute  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/409-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/640.png"/>
+</div>
+<pre><span class="type-rock">Rampardos</span> @ Assault Vest  
+<span class="attr">Ability: </span>Mold Breaker  
+<span class="attr">Level: </span>36  
+<span class="attr">EVs: </span><span class="stat-hp">168 HP</span> / <span class="stat-atk">244 Atk</span>  
+Adamant Nature  
+<span class="attr">IVs: </span><span class="stat-hp">23 HP</span> / <span class="stat-atk">23 Atk</span> / <span class="stat-def">23 Def</span> / <span class="stat-spa">23 SpA</span> / <span class="stat-spd">23 SpD</span> / <span class="stat-spe">23 Spe</span>  
+<span class="type-fighting">-</span> Focus Punch  
+<span class="type-rock">-</span> Rock Slide  
+<span class="type-steel">-</span> Iron Head  
+- Supercell Slam  
+
+</pre>
+</article>
+
+<a href="/trainer/147">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/149">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

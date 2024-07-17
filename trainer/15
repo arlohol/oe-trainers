@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>15. Lass Haley</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/440-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/150.png"/>
+</div>
+<pre><span class="type-normal">Happiny</span> @ Chesto Berry  
+<span class="attr">Ability: </span>Friend Guard  
+<span class="attr">Level: </span>10  
+<span class="attr">EVs: </span><span class="stat-hp">100 HP</span>  
+Calm Nature  
+<span class="attr">IVs: </span><span class="stat-hp">15 HP</span> / <span class="stat-atk">0 Atk</span> / <span class="stat-def">15 Def</span> / <span class="stat-spa">15 SpA</span> / <span class="stat-spd">15 SpD</span> / <span class="stat-spe">15 Spe</span>  
+<span class="type-psychic">-</span> Rest  
+<span class="type-fairy">-</span> Sweet Kiss  
+<span class="type-normal">-</span> Recycle  
+<span class="type-poison">-</span> Toxic  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/240-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/155.png"/>
+</div>
+<pre><span class="type-fire">Magby</span> @ Oran Berry  
+<span class="attr">Ability: </span>Flame Body  
+<span class="attr">Level: </span>11  
+<span class="attr">EVs: </span><span class="stat-hp">92 HP</span> / <span class="stat-def">4 Def</span>  
+Adamant Nature  
+<span class="attr">IVs: </span><span class="stat-hp">15 HP</span> / <span class="stat-atk">15 Atk</span> / <span class="stat-def">15 Def</span> / <span class="stat-spa">15 SpA</span> / <span class="stat-spd">15 SpD</span> / <span class="stat-spe">15 Spe</span>  
+<span class="type-fire">-</span> Flame Charge  
+<span class="type-fighting">-</span> Mach Punch  
+<span class="type-fighting">-</span> Power-Up Punch  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/239-0.png"/>
+</div>
+<pre><span class="type-electric">Elekid</span>  
+<span class="attr">Ability: </span>Static  
+<span class="attr">Level: </span>11  
+<span class="attr">EVs: </span><span class="stat-hp">56 HP</span> / <span class="stat-atk">20 Atk</span> / <span class="stat-spe">20 Spe</span>  
+Impish Nature  
+<span class="attr">IVs: </span><span class="stat-hp">15 HP</span> / <span class="stat-atk">15 Atk</span> / <span class="stat-def">15 Def</span> / <span class="stat-spa">15 SpA</span> / <span class="stat-spd">15 SpD</span> / <span class="stat-spe">15 Spe</span>  
+<span class="type-electric">-</span> Spark  
+<span class="type-fighting">-</span> Power-Up Punch  
+<span class="type-normal">-</span> Feint  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/175-0.png"/>
+</div>
+<pre><span class="type-fairy">Togepi</span>  
+<span class="attr">Ability: </span>Serene Grace  
+<span class="attr">Level: </span>10  
+<span class="attr">EVs: </span><span class="stat-hp">100 HP</span>  
+Bold Nature  
+<span class="attr">IVs: </span><span class="stat-hp">15 HP</span> / <span class="stat-atk">15 Atk</span> / <span class="stat-def">15 Def</span> / <span class="stat-spa">15 SpA</span> / <span class="stat-spd">15 SpD</span> / <span class="stat-spe">15 Spe</span>  
+<span class="type-fairy">-</span> Draining Kiss  
+<span class="type-normal">-</span> Soft-Boiled  
+<span class="type-normal">-</span> Follow Me  
+<span class="type-normal">-</span> Metronome  
+
+</pre>
+</article>
+
+<a href="/trainer/14">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/16">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

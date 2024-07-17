@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>381. Swimmer Harrison</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/845-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/243.png"/>
+</div>
+<pre><span class="type-flying">Cramorant</span> @ <span class="type-water">Mystic Water</span>  
+<span class="attr">Ability: </span>Gulp Missile  
+<span class="attr">Level: </span>67  
+<span class="attr">EVs: </span><span class="stat-spa">248 SpA</span> / <span class="stat-spd">12 SpD</span> / <span class="stat-spe">248 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-water">-</span> Surf  
+<span class="type-flying">-</span> Air Slash  
+<span class="type-ice">-</span> Ice Beam  
+<span class="type-normal">-</span> Weather Ball  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/346-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/271.png"/>
+</div>
+<pre><span class="type-rock">Cradily</span> @ Power Herb  
+<span class="attr">Ability: </span>Storm Drain  
+<span class="attr">Level: </span>67  
+<span class="attr">EVs: </span><span class="stat-hp">252 HP</span> / <span class="stat-spa">252 SpA</span> / <span class="stat-spe">4 Spe</span>  
+Modest Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-rock">-</span> Meteor Beam  
+<span class="type-grass">-</span> Giga Drain  
+<span class="type-ground">-</span> Earth Power  
+<span class="type-grass">-</span> Leech Seed  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/134-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/640.png"/>
+</div>
+<pre><span class="type-water">Vaporeon</span> @ Assault Vest  
+<span class="attr">Ability: </span>Water Absorb  
+<span class="attr">Level: </span>67  
+<span class="attr">EVs: </span><span class="stat-hp">252 HP</span> / <span class="stat-spa">252 SpA</span> / <span class="stat-spe">4 Spe</span>  
+Modest Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-water">-</span> Surf  
+<span class="type-ghost">-</span> Shadow Ball  
+<span class="type-ice">-</span> Ice Beam  
+<span class="type-bug">-</span> Signal Beam  
+
+</pre>
+</article>
+
+<a href="/trainer/380">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/382">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

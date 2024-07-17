@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>392. Black Belt Kiyo</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/773-1.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/904.png"/>
+</div>
+<pre><span class="type-fighting">Silvally-Fighting</span> @ Fighting Memory  
+<span class="attr">Ability: </span>RKS System  
+<span class="attr">Level: </span>67  
+<span class="attr">EVs: </span><span class="stat-spa">252 SpA</span> / <span class="stat-spd">4 SpD</span> / <span class="stat-spe">252 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-atk">1 Atk</span>  
+<span class="type-fighting">-</span> Hidden Power [Fighting]  
+<span class="type-dragon">-</span> Draco Meteor  
+<span class="type-steel">-</span> Flash Cannon  
+<span class="type-dark">-</span> Parting Shot  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/560-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/547.png"/>
+</div>
+<pre><span class="type-dark">Scrafty</span> @ Eject Button  
+<span class="attr">Ability: </span>Moxie  
+<span class="attr">Level: </span>67  
+<span class="attr">EVs: </span><span class="stat-hp">252 HP</span> / <span class="stat-atk">252 Atk</span> / <span class="stat-spd">4 SpD</span>  
+Adamant Nature  
+<span class="type-fighting">-</span> Brick Break  
+<span class="type-dark">-</span> Crunch  
+<span class="type-steel">-</span> Iron Head  
+<span class="type-normal">-</span> Fake Out  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/0-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/253.png"/>
+</div>
+<pre>Decidueye-Hisui @ Shell Bell  
+<span class="attr">Ability: </span>Scrappy  
+<span class="attr">Level: </span>67  
+<span class="attr">EVs: </span><span class="stat-hp">248 HP</span> / <span class="stat-atk">252 Atk</span> / <span class="stat-spd">8 SpD</span>  
+Adamant Nature  
+<span class="type-fighting">-</span> Triple Arrows  
+<span class="type-fire">-</span> Blaze Kick  
+<span class="type-flying">-</span> Dual Wingbeat  
+<span class="type-bug">-</span> U-turn  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/214-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/1886.png"/>
+</div>
+<pre><span class="type-bug">Heracross</span> @ Loaded Dice  
+<span class="attr">Ability: </span>Moxie  
+<span class="attr">Level: </span>67  
+<span class="attr">EVs: </span><span class="stat-atk">252 Atk</span> / <span class="stat-spd">8 SpD</span> / <span class="stat-spe">248 Spe</span>  
+Jolly Nature  
+<span class="type-bug">-</span> Pin Missile  
+<span class="type-fighting">-</span> Arm Thrust  
+<span class="type-rock">-</span> Rock Blast  
+<span class="type-grass">-</span> Trailblaze  
+
+</pre>
+</article>
+
+<a href="/trainer/391">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/393">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

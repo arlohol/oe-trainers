@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>93. Battle Girl Aisha</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/234-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/846.png"/>
+</div>
+<pre><span class="type-normal">Stantler</span> @ Adrenaline Orb  
+<span class="attr">Ability: </span>Intimidate  
+<span class="attr">Level: </span>26  
+<span class="attr">EVs: </span><span class="stat-spe">196 Spe</span>  
+Jolly Nature  
+<span class="attr">IVs: </span><span class="stat-hp">20 HP</span> / <span class="stat-atk">20 Atk</span> / <span class="stat-def">20 Def</span> / <span class="stat-spa">20 SpA</span> / <span class="stat-spd">20 SpD</span> / <span class="stat-spe">20 Spe</span>  
+<span class="type-normal">-</span> Stomp  
+<span class="type-fighting">-</span> Jump Kick  
+<span class="type-grass">-</span> Trailblaze  
+<span class="type-psychic">-</span> Psyshield Bash  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/611-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/1882.png"/>
+</div>
+<pre><span class="type-dragon">Fraxure</span> @ Clear Amulet  
+<span class="attr">Ability: </span>Mold Breaker  
+<span class="attr">Level: </span>26  
+<span class="attr">EVs: </span><span class="stat-spe">200 Spe</span>  
+Jolly Nature  
+<span class="attr">IVs: </span><span class="stat-hp">20 HP</span> / <span class="stat-atk">20 Atk</span> / <span class="stat-def">20 Def</span> / <span class="stat-spa">20 SpA</span> / <span class="stat-spd">20 SpD</span> / <span class="stat-spe">20 Spe</span>  
+<span class="type-dragon">-</span> Dragon Tail  
+<span class="type-dark">-</span> Crunch  
+<span class="type-bug">-</span> First Impression  
+<span class="type-dragon">-</span> Dragon Dance  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/215-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/189.png"/>
+</div>
+<pre><span class="type-dark">Sneasel</span> @ <span class="type-fighting">Chople Berry</span>  
+<span class="attr">Ability: </span>Pickpocket  
+<span class="attr">Level: </span>26  
+<span class="attr">EVs: </span><span class="stat-atk">208 Atk</span>  
+Adamant Nature  
+<span class="attr">IVs: </span><span class="stat-hp">20 HP</span> / <span class="stat-atk">20 Atk</span> / <span class="stat-def">20 Def</span> / <span class="stat-spa">20 SpA</span> / <span class="stat-spd">20 SpD</span> / <span class="stat-spe">20 Spe</span>  
+<span class="type-ice">-</span> Ice Shard  
+<span class="type-ice">-</span> Ice Punch  
+<span class="type-dark">-</span> Lash Out  
+<span class="type-poison">-</span> Poison Jab  
+
+</pre>
+</article>
+
+<a href="/trainer/92">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/94">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

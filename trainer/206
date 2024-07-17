@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>206. Swimmer Alice</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/79-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/538.png"/>
+</div>
+<pre><span class="type-water">Slowpoke</span> @ Eviolite  
+<span class="attr">Ability: </span>Regenerator  
+<span class="attr">Level: </span>47  
+<span class="attr">EVs: </span><span class="stat-hp">8 HP</span> / <span class="stat-def">252 Def</span> / <span class="stat-spd">248 SpD</span>  
+Bold Nature  
+<span class="attr">IVs: </span><span class="stat-hp">25 HP</span> / <span class="stat-atk">25 Atk</span> / <span class="stat-def">25 Def</span> / <span class="stat-spa">25 SpA</span> / <span class="stat-spd">25 SpD</span> / <span class="stat-spe">25 Spe</span>  
+<span class="type-water">-</span> Surf  
+<span class="type-psychic">-</span> Trick Room  
+<span class="type-psychic">-</span> Heal Pulse  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/423-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/234.png"/>
+</div>
+<pre><span class="type-water">Gastrodon</span> @ Leftovers  
+<span class="attr">Ability: </span>Storm Drain  
+<span class="attr">Level: </span>47  
+<span class="attr">EVs: </span><span class="stat-hp">248 HP</span> / <span class="stat-spa">180 SpA</span>  
+Quiet Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span> / <span class="stat-spe">0 Spe</span>  
+<span class="type-water">-</span> Muddy Water  
+<span class="type-ground">-</span> Earth Power  
+<span class="type-poison">-</span> Sludge Bomb  
+<span class="type-ice">-</span> Ice Beam  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/365-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/270.png"/>
+</div>
+<pre><span class="type-ice">Walrein</span> @ Life Orb  
+<span class="attr">Ability: </span>Thick Fat  
+<span class="attr">Level: </span>46  
+<span class="attr">EVs: </span><span class="stat-hp">180 HP</span> / <span class="stat-atk">248 Atk</span>  
+Brave Nature  
+<span class="attr">IVs: </span><span class="stat-hp">25 HP</span> / <span class="stat-atk">25 Atk</span> / <span class="stat-def">25 Def</span> / <span class="stat-spa">25 SpA</span> / <span class="stat-spd">25 SpD</span> / <span class="stat-spe">0 Spe</span>  
+<span class="type-water">-</span> Aqua Tail  
+<span class="type-normal">-</span> Body Slam  
+<span class="type-dark">-</span> Crunch  
+
+</pre>
+</article>
+
+<a href="/trainer/205">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/207">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

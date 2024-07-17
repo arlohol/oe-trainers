@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>106. Picnicker Irene</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/651-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/1884.png"/>
+</div>
+<pre><span class="type-grass">Quilladin</span> @ Punching Glove  
+<span class="attr">Ability: </span>Bulletproof  
+<span class="attr">Level: </span>30  
+<span class="attr">EVs: </span><span class="stat-hp">108 HP</span> / <span class="stat-atk">252 Atk</span>  
+Adamant Nature  
+<span class="type-grass">-</span> Needle Arm  
+<span class="type-fighting">-</span> Brick Break  
+<span class="type-ghost">-</span> Shadow Claw  
+<span class="type-electric">-</span> Thunder Punch  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/57-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/538.png"/>
+</div>
+<pre><span class="type-fighting">Primeape</span> @ Eviolite  
+<span class="attr">Ability: </span>Vital Spirit  
+<span class="attr">Level: </span>30  
+<span class="attr">EVs: </span><span class="stat-atk">104 Atk</span> / <span class="stat-spe">252 Spe</span>  
+Jolly Nature  
+<span class="type-ghost">-</span> Rage Fist  
+<span class="type-fighting">-</span> Karate Chop  
+<span class="type-electric">-</span> Thunder Punch  
+<span class="type-dragon">-</span> Dual Chop  
+
+</pre>
+</article>
+
+<a href="/trainer/105">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/107">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

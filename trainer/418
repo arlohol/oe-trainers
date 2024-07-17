@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>418. Team Magma Grunt</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/727-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/640.png"/>
+</div>
+<pre><span class="type-fire">Incineroar</span> @ Assault Vest  
+<span class="attr">Ability: </span>Intimidate  
+<span class="attr">Level: </span>74  
+<span class="attr">EVs: </span><span class="stat-hp">252 HP</span> / <span class="stat-atk">12 Atk</span> / <span class="stat-spd">244 SpD</span>  
+Careful Nature  
+<span class="type-fire">-</span> Flare Blitz  
+<span class="type-dark">-</span> Darkest Lariat  
+<span class="type-normal">-</span> Fake Out  
+<span class="type-bug">-</span> U-turn  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/34-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/270.png"/>
+</div>
+<pre><span class="type-poison">Nidoking</span> @ Life Orb  
+<span class="attr">Ability: </span>Sheer Force  
+<span class="attr">Level: </span>74  
+<span class="attr">EVs: </span><span class="stat-hp">12 HP</span> / <span class="stat-spa">240 SpA</span> / <span class="stat-spd">4 SpD</span> / <span class="stat-spe">252 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-poison">-</span> Sludge Bomb  
+<span class="type-electric">-</span> Thunderbolt  
+<span class="type-ice">-</span> Ice Beam  
+<span class="type-ground">-</span> Earth Power  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/553-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/220.png"/>
+</div>
+<pre><span class="type-ground">Krookodile</span> @ Choice Band  
+<span class="attr">Ability: </span>Moxie  
+<span class="attr">Level: </span>74  
+<span class="attr">EVs: </span><span class="stat-atk">252 Atk</span> / <span class="stat-spd">4 SpD</span> / <span class="stat-spe">252 Spe</span>  
+Jolly Nature  
+<span class="type-dark">-</span> Darkest Lariat  
+<span class="type-ground">-</span> High Horsepower  
+<span class="type-rock">-</span> Rock Slide  
+<span class="type-fighting">-</span> Close Combat  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/758-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/297.png"/>
+</div>
+<pre><span class="type-poison">Salazzle</span> @ Choice Specs  
+<span class="attr">Ability: </span>Corrosion  
+<span class="attr">Level: </span>74  
+<span class="attr">EVs: </span><span class="stat-spa">248 SpA</span> / <span class="stat-spd">8 SpD</span> / <span class="stat-spe">252 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-fire">-</span> Heat Wave  
+<span class="type-poison">-</span> Sludge Bomb  
+<span class="type-dragon">-</span> Dragon Pulse  
+<span class="type-grass">-</span> Hidden Power [Grass]  
+
+</pre>
+</article>
+
+<a href="/trainer/417">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/419">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

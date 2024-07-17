@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>399. Expert Conor</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/171-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/161.png"/>
+</div>
+<pre><span class="type-water">Lanturn</span> @ Mago Berry  
+<span class="attr">Ability: </span>Volt Absorb  
+<span class="attr">Level: </span>68  
+<span class="attr">EVs: </span><span class="stat-hp">156 HP</span> / <span class="stat-spa">252 SpA</span>  
+Modest Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-electric">-</span> Rising Voltage  
+<span class="type-water">-</span> Scald  
+<span class="type-electric">-</span> Discharge  
+<span class="type-electric">-</span> Volt Switch  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/26-0.png"/>
+</div>
+<pre><span class="type-electric">Raichu</span>  
+<span class="attr">Ability: </span>Lightning Rod  
+<span class="attr">Level: </span>68  
+<span class="attr">EVs: </span><span class="stat-spa">200 SpA</span> / <span class="stat-spe">208 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-electric">-</span> Rising Voltage  
+<span class="type-electric">-</span> Discharge  
+<span class="type-grass">-</span> Grass Knot  
+<span class="type-dark">-</span> Nasty Plot  
+
+</pre>
+</article>
+
+<a href="/trainer/398">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/400">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

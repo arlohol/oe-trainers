@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>313. Team Magma Grunt 3</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/631-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/191.png"/>
+</div>
+<pre><span class="type-fire">Heatmor</span> @ <span class="type-ground">Shuca Berry</span>  
+<span class="attr">Ability: </span>Flash Fire  
+<span class="attr">Level: </span>59  
+<span class="attr">EVs: </span><span class="stat-hp">244 HP</span> / <span class="stat-atk">248 Atk</span> / <span class="stat-spd">16 SpD</span>  
+Adamant Nature  
+<span class="type-fighting">-</span> Drain Punch  
+<span class="type-dark">-</span> Knock Off  
+<span class="type-fire">-</span> Fire Lash  
+<span class="type-ground">-</span> Stomping Tantrum  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/157-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/195.png"/>
+</div>
+<pre><span class="type-fire">Typhlosion</span> @ <span class="type-rock">Charti Berry</span>  
+<span class="attr">Ability: </span>Flash Fire  
+<span class="attr">Level: </span>59  
+<span class="attr">EVs: </span><span class="stat-spa">252 SpA</span> / <span class="stat-spd">4 SpD</span> / <span class="stat-spe">252 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-fire">-</span> Lava Plume  
+<span class="type-grass">-</span> Hidden Power [Grass]  
+<span class="type-ground">-</span> Scorching Sands  
+<span class="type-ghost">-</span> Shadow Ball  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/308-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/543.png"/>
+</div>
+<pre><span class="type-fighting">Medicham</span> @ Ring Target  
+<span class="attr">Ability: </span>Telepathy  
+<span class="attr">Level: </span>59  
+<span class="attr">EVs: </span><span class="stat-atk">252 Atk</span> / <span class="stat-spd">4 SpD</span> / <span class="stat-spe">248 Spe</span>  
+Jolly Nature  
+<span class="type-normal">-</span> Fake Out  
+<span class="type-poison">-</span> Toxic  
+<span class="type-rock">-</span> Rock Slide  
+<span class="type-psychic">-</span> Trick  
+
+</pre>
+</article>
+
+<a href="/trainer/312">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/314">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

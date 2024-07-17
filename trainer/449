@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>449. Cooltrainer Hope</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/778-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/219.png"/>
+</div>
+<pre><span class="type-ghost">Mimikyu</span> @ Mental Herb  
+<span class="attr">Ability: </span>Disguise  
+<span class="attr">Level: </span>85  
+<span class="attr">EVs: </span><span class="stat-hp">252 HP</span> / <span class="stat-atk">252 Atk</span> / <span class="stat-def">4 Def</span>  
+Brave Nature  
+<span class="attr">IVs: </span><span class="stat-spe">0 Spe</span>  
+<span class="type-ghost">-</span> Shadow Claw  
+<span class="type-normal">-</span> Swords Dance  
+<span class="type-fairy">-</span> Play Rough  
+<span class="type-psychic">-</span> Trick Room  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/448-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/673.png"/>
+</div>
+<pre><span class="type-fighting">Lucario</span> @ Lucarionite  
+<span class="attr">Ability: </span>Inner Focus  
+<span class="attr">Level: </span>85  
+<span class="attr">EVs: </span><span class="stat-hp">252 HP</span> / <span class="stat-atk">4 Atk</span> / <span class="stat-spd">4 SpD</span> / <span class="stat-spe">248 Spe</span>  
+Jolly Nature  
+<span class="type-fighting">-</span> Final Gambit  
+<span class="type-normal">-</span> Follow Me  
+<span class="type-fighting">-</span> Close Combat  
+<span class="type-rock">-</span> Rock Slide  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/297-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/273.png"/>
+</div>
+<pre><span class="type-fighting">Hariyama</span> @ Flame Orb  
+<span class="attr">Ability: </span>Guts  
+<span class="attr">Level: </span>85  
+<span class="attr">EVs: </span><span class="stat-hp">28 HP</span> / <span class="stat-atk">252 Atk</span> / <span class="stat-def">108 Def</span> / <span class="stat-spd">120 SpD</span>  
+Brave Nature  
+<span class="attr">IVs: </span><span class="stat-spe">0 Spe</span>  
+<span class="type-fighting">-</span> Close Combat  
+<span class="type-normal">-</span> Fake Out  
+<span class="type-dark">-</span> Knock Off  
+<span class="type-normal">-</span> Feint  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/324-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/249.png"/>
+</div>
+<pre><span class="type-fire">Torkoal</span> @ <span class="type-fire">Charcoal</span>  
+<span class="attr">Ability: </span>Drought  
+<span class="attr">Level: </span>85  
+<span class="attr">EVs: </span><span class="stat-hp">172 HP</span> / <span class="stat-spa">248 SpA</span> / <span class="stat-spd">88 SpD</span>  
+Quiet Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span> / <span class="stat-spe">0 Spe</span>  
+<span class="type-fire">-</span> Eruption  
+<span class="type-fire">-</span> Flamethrower  
+<span class="type-grass">-</span> Solar Beam  
+<span class="type-normal">-</span> Yawn  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/780-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/297.png"/>
+</div>
+<pre><span class="type-normal">Drampa</span> @ Choice Specs  
+<span class="attr">Ability: </span>Berserk  
+<span class="attr">Level: </span>85  
+<span class="attr">EVs: </span><span class="stat-hp">252 HP</span> / <span class="stat-def">8 Def</span> / <span class="stat-spa">248 SpA</span>  
+Quiet Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span> / <span class="stat-spe">0 Spe</span>  
+<span class="type-normal">-</span> Hyper Voice  
+<span class="type-fire">-</span> Flamethrower  
+<span class="type-normal">-</span> Hyper Beam  
+<span class="type-ice">-</span> Ice Beam  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/750-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/640.png"/>
+</div>
+<pre><span class="type-ground">Mudsdale</span> @ Assault Vest  
+<span class="attr">Ability: </span>Stamina  
+<span class="attr">Level: </span>85  
+<span class="attr">EVs: </span><span class="stat-hp">252 HP</span> / <span class="stat-atk">252 Atk</span> / <span class="stat-spd">4 SpD</span>  
+Brave Nature  
+<span class="attr">IVs: </span><span class="stat-spe">0 Spe</span>  
+<span class="type-ground">-</span> High Horsepower  
+<span class="type-rock">-</span> Rock Slide  
+<span class="type-steel">-</span> Heavy Slam  
+<span class="type-fighting">-</span> Body Press  
+
+</pre>
+</article>
+
+<a href="/trainer/448">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/450">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

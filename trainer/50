@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>50. Tuber Hailey</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/183-0.png"/>
+</div>
+<pre><span class="type-water">Marill</span> @ Rowap Berry  
+<span class="attr">Ability: </span>Sap Sipper  
+<span class="attr">Level: </span>17  
+<span class="attr">EVs: </span><span class="stat-atk">72 Atk</span> / <span class="stat-spe">4 Spe</span>  
+Adamant Nature  
+<span class="attr">IVs: </span><span class="stat-hp">13 HP</span> / <span class="stat-atk">13 Atk</span> / <span class="stat-def">13 Def</span> / <span class="stat-spa">13 SpA</span> / <span class="stat-spd">13 SpD</span> / <span class="stat-spe">13 Spe</span>  
+<span class="type-water">-</span> Aqua Jet  
+<span class="type-flying">-</span> Bounce  
+<span class="type-normal">-</span> Natural Gift  
+<span class="type-normal">-</span> Belly Drum  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/833-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/214.png"/>
+</div>
+<pre><span class="type-water">Chewtle</span> @ White Herb  
+<span class="attr">Ability: </span>Shell Armor  
+<span class="attr">Level: </span>17  
+<span class="attr">EVs: </span><span class="stat-atk">24 Atk</span> / <span class="stat-spe">68 Spe</span>  
+Jolly Nature  
+<span class="attr">IVs: </span><span class="stat-hp">13 HP</span> / <span class="stat-atk">13 Atk</span> / <span class="stat-def">13 Def</span> / <span class="stat-spa">13 SpA</span> / <span class="stat-spd">13 SpD</span> / <span class="stat-spe">13 Spe</span>  
+<span class="type-ice">-</span> Ice Fang  
+<span class="type-dark">-</span> Bite  
+<span class="type-fighting">-</span> Revenge  
+<span class="type-dragon">-</span> Scale Shot  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/400-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/234.png"/>
+</div>
+<pre><span class="type-normal">Bibarel</span> @ Leftovers  
+<span class="attr">Ability: </span>Simple  
+<span class="attr">Level: </span>18  
+<span class="attr">EVs: </span><span class="stat-hp">44 HP</span> / <span class="stat-def">20 Def</span> / <span class="stat-spd">20 SpD</span>  
+Adamant Nature  
+<span class="attr">IVs: </span><span class="stat-hp">13 HP</span> / <span class="stat-atk">13 Atk</span> / <span class="stat-def">13 Def</span> / <span class="stat-spa">13 SpA</span> / <span class="stat-spd">13 SpD</span> / <span class="stat-spe">13 Spe</span>  
+<span class="type-water">-</span> Aqua Jet  
+<span class="type-normal">-</span> Quick Attack  
+<span class="type-normal">-</span> Double Team  
+<span class="type-normal">-</span> Swords Dance  
+
+</pre>
+</article>
+
+<a href="/trainer/49">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/51">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

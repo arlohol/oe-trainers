@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>34. Rival Battle 2 (Fire)</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/58-0.png"/>
+</div>
+<pre><span class="type-fire">Growlithe</span>  
+<span class="attr">Ability: </span>Intimidate  
+<span class="attr">Level: </span>15  
+Adamant Nature  
+<span class="attr">IVs: </span><span class="stat-hp">20 HP</span> / <span class="stat-atk">20 Atk</span> / <span class="stat-def">20 Def</span> / <span class="stat-spa">20 SpA</span> / <span class="stat-spd">20 SpD</span> / <span class="stat-spe">20 Spe</span>  
+<span class="type-dark">-</span> Bite  
+<span class="type-fire">-</span> Flame Wheel  
+<span class="type-normal">-</span> Howl  
+<span class="type-fighting">-</span> Double Kick  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/590-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/150.png"/>
+</div>
+<pre><span class="type-grass">Foongus</span> @ Chesto Berry  
+<span class="attr">Ability: </span>Effect Spore  
+<span class="attr">Level: </span>15  
+Calm Nature  
+<span class="attr">IVs: </span><span class="stat-hp">20 HP</span> / <span class="stat-atk">20 Atk</span> / <span class="stat-def">20 Def</span> / <span class="stat-spa">20 SpA</span> / <span class="stat-spd">20 SpD</span> / <span class="stat-spe">20 Spe</span>  
+<span class="type-grass">-</span> Mega Drain  
+<span class="type-grass">-</span> Stun Spore  
+<span class="type-normal">-</span> Growth  
+<span class="type-poison">-</span> Poison Powder  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/278-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/150.png"/>
+</div>
+<pre><span class="type-water">Wingull</span> @ Chesto Berry  
+<span class="attr">Ability: </span>Keen Eye  
+<span class="attr">Level: </span>15  
+Modest Nature  
+<span class="attr">IVs: </span><span class="stat-hp">20 HP</span> / <span class="stat-atk">20 Atk</span> / <span class="stat-def">20 Def</span> / <span class="stat-spa">20 SpA</span> / <span class="stat-spd">20 SpD</span> / <span class="stat-spe">20 Spe</span>  
+<span class="type-water">-</span> Water Gun  
+<span class="type-normal">-</span> Quick Attack  
+<span class="type-dragon">-</span> Twister  
+<span class="type-flying">-</span> Gust  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/258-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/158.png"/>
+</div>
+<pre><span class="type-water">Mudkip</span> @ Sitrus Berry  
+<span class="attr">Ability: </span>Damp  
+<span class="attr">Level: </span>16  
+<span class="attr">EVs: </span><span class="stat-hp">16 HP</span> / <span class="stat-atk">60 Atk</span> / <span class="stat-spa">32 SpA</span>  
+Adamant Nature  
+<span class="type-fighting">-</span> Rock Smash  
+<span class="type-rock">-</span> Rock Tomb  
+<span class="type-water">-</span> Water Gun  
+<span class="type-normal">-</span> Stomp  
+
+</pre>
+</article>
+
+<a href="/trainer/33">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/35">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

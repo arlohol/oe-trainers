@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>311. Team Magma Grunt 1</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/169-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/186.png"/>
+</div>
+<pre><span class="type-poison">Crobat</span> @ <span class="type-electric">Wacan Berry</span>  
+<span class="attr">Ability: </span>Inner Focus  
+<span class="attr">Level: </span>58  
+<span class="attr">EVs: </span><span class="stat-hp">4 HP</span> / <span class="stat-atk">248 Atk</span> / <span class="stat-spd">4 SpD</span> / <span class="stat-spe">252 Spe</span>  
+Jolly Nature  
+<span class="type-poison">-</span> Cross Poison  
+<span class="type-flying">-</span> Dual Wingbeat  
+<span class="type-dark">-</span> Crunch  
+<span class="type-normal">-</span> Facade  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/862-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/273.png"/>
+</div>
+<pre><span class="type-dark">Obstagoon</span> @ Flame Orb  
+<span class="attr">Ability: </span>Guts  
+<span class="attr">Level: </span>58  
+<span class="attr">EVs: </span><span class="stat-atk">248 Atk</span> / <span class="stat-spd">8 SpD</span> / <span class="stat-spe">248 Spe</span>  
+Jolly Nature  
+<span class="type-normal">-</span> Facade  
+<span class="type-dark">-</span> Throat Chop  
+<span class="type-fighting">-</span> Close Combat  
+<span class="type-dark">-</span> Obstruct  
+
+</pre>
+</article>
+
+<a href="/trainer/310">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/312">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

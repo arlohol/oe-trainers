@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>138. Hiker Lenny</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/525-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/150.png"/>
+</div>
+<pre><span class="type-rock">Boldore</span> @ Chesto Berry  
+<span class="attr">Ability: </span>Sturdy  
+<span class="attr">Level: </span>35  
+<span class="attr">EVs: </span><span class="stat-hp">244 HP</span> / <span class="stat-def">160 Def</span>  
+Impish Nature  
+<span class="attr">IVs: </span><span class="stat-hp">22 HP</span> / <span class="stat-atk">22 Atk</span> / <span class="stat-def">22 Def</span> / <span class="stat-spa">22 SpA</span> / <span class="stat-spd">22 SpD</span> / <span class="stat-spe">22 Spe</span>  
+<span class="type-fighting">-</span> Body Press  
+<span class="type-steel">-</span> Heavy Slam  
+<span class="type-psychic">-</span> Rest  
+<span class="type-ghost">-</span> Curse  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/533-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/538.png"/>
+</div>
+<pre><span class="type-fighting">Gurdurr</span> @ Eviolite  
+<span class="attr">Ability: </span>Iron Fist  
+<span class="attr">Level: </span>35  
+<span class="attr">EVs: </span><span class="stat-hp">252 HP</span> / <span class="stat-atk">160 Atk</span>  
+Adamant Nature  
+<span class="attr">IVs: </span><span class="stat-hp">22 HP</span> / <span class="stat-atk">22 Atk</span> / <span class="stat-def">22 Def</span> / <span class="stat-spa">22 SpA</span> / <span class="stat-spd">22 SpD</span> / <span class="stat-spe">22 Spe</span>  
+<span class="type-fighting">-</span> Drain Punch  
+<span class="type-fire">-</span> Fire Punch  
+<span class="type-electric">-</span> Thunder Punch  
+<span class="type-ice">-</span> Ice Punch  
+
+</pre>
+</article>
+
+<a href="/trainer/137">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/139">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

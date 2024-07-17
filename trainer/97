@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>97. Hiker Mike</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/202-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/219.png"/>
+</div>
+<pre><span class="type-psychic">Wobbuffet</span> @ Mental Herb  
+<span class="attr">Ability: </span>Telepathy  
+<span class="attr">Level: </span>28  
+<span class="attr">EVs: </span><span class="stat-hp">200 HP</span>  
+Calm Nature  
+<span class="attr">IVs: </span><span class="stat-hp">20 HP</span> / <span class="stat-atk">0 Atk</span> / <span class="stat-def">20 Def</span> / <span class="stat-spa">20 SpA</span> / <span class="stat-spd">20 SpD</span> / <span class="stat-spe">20 Spe</span>  
+<span class="type-fighting">-</span> Counter  
+<span class="type-psychic">-</span> Mirror Coat  
+<span class="type-normal">-</span> Encore  
+<span class="type-ghost">-</span> Destiny Bond  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/75-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/266.png"/>
+</div>
+<pre><span class="type-rock">Graveler</span> @ Muscle Band  
+<span class="attr">Ability: </span>Sturdy  
+<span class="attr">Level: </span>28  
+<span class="attr">EVs: </span><span class="stat-atk">204 Atk</span>  
+Adamant Nature  
+<span class="attr">IVs: </span><span class="stat-hp">20 HP</span> / <span class="stat-atk">20 Atk</span> / <span class="stat-def">20 Def</span> / <span class="stat-spa">20 SpA</span> / <span class="stat-spd">20 SpD</span> / <span class="stat-spe">20 Spe</span>  
+<span class="type-normal">-</span> Self-Destruct  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/100-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/564.png"/>
+</div>
+<pre><span class="type-electric">Voltorb</span> @ <span class="type-normal">Normal Gem</span>  
+<span class="attr">Ability: </span>Aftermath  
+<span class="attr">Level: </span>28  
+<span class="attr">EVs: </span><span class="stat-spa">196 SpA</span>  
+Hasty Nature  
+<span class="attr">IVs: </span><span class="stat-hp">20 HP</span> / <span class="stat-atk">20 Atk</span> / <span class="stat-def">20 Def</span> / <span class="stat-spa">20 SpA</span> / <span class="stat-spd">20 SpD</span> / <span class="stat-spe">20 Spe</span>  
+<span class="type-normal">-</span> Self-Destruct  
+<span class="type-electric">-</span> Charge Beam  
+<span class="type-electric">-</span> Discharge  
+
+</pre>
+</article>
+
+<a href="/trainer/96">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/98">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

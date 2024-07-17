@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>195. Swimmer Beth</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/457-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/157.png"/>
+</div>
+<pre><span class="type-water">Lumineon</span> @ Lum Berry  
+<span class="attr">Ability: </span>Storm Drain  
+<span class="attr">Level: </span>46  
+<span class="attr">EVs: </span><span class="stat-spa">180 SpA</span> / <span class="stat-spe">244 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-flying">-</span> Tailwind  
+<span class="type-water">-</span> Scald  
+<span class="type-ice">-</span> Ice Beam  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/131-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/234.png"/>
+</div>
+<pre><span class="type-water">Lapras</span> @ Leftovers  
+<span class="attr">Ability: </span>Shell Armor  
+<span class="attr">Level: </span>46  
+<span class="attr">EVs: </span><span class="stat-hp">176 HP</span> / <span class="stat-spa">252 SpA</span>  
+Modest Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-ice">-</span> Blizzard  
+<span class="type-rock">-</span> Ancient Power  
+<span class="type-ice">-</span> Freeze-Dry  
+<span class="type-water">-</span> Surf  
+
+</pre>
+</article>
+
+<a href="/trainer/194">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/196">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

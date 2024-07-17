@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>435. Lass Andrea</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/516-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/297.png"/>
+</div>
+<pre><span class="type-water">Simipour</span> @ Choice Specs  
+<span class="attr">Ability: </span>Torrent  
+<span class="attr">Level: </span>76  
+<span class="attr">EVs: </span><span class="stat-hp">4 HP</span> / <span class="stat-spa">252 SpA</span> / <span class="stat-spe">248 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-water">-</span> Surf  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/332-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/296.png"/>
+</div>
+<pre><span class="type-grass">Cacturne</span> @ Big Root  
+<span class="attr">Ability: </span>Water Absorb  
+<span class="attr">Level: </span>76  
+<span class="attr">EVs: </span><span class="stat-hp">248 HP</span> / <span class="stat-spa">252 SpA</span> / <span class="stat-spd">8 SpD</span>  
+Modest Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-grass">-</span> Giga Drain  
+<span class="type-dark">-</span> Dark Pulse  
+<span class="type-poison">-</span> Venoshock  
+<span class="type-dark">-</span> Nasty Plot  
+
+</pre>
+</article>
+
+<a href="/trainer/434">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/436">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

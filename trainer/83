@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>83. Picnicker Bianca</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/590-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/281.png"/>
+</div>
+<pre><span class="type-grass">Foongus</span> @ Black Sludge  
+<span class="attr">Ability: </span>Effect Spore  
+<span class="attr">Level: </span>26  
+<span class="attr">EVs: </span><span class="stat-hp">48 HP</span> / <span class="stat-def">100 Def</span> / <span class="stat-spd">144 SpD</span>  
+Bold Nature  
+<span class="attr">IVs: </span><span class="stat-hp">20 HP</span> / <span class="stat-atk">0 Atk</span> / <span class="stat-def">20 Def</span> / <span class="stat-spa">20 SpA</span> / <span class="stat-spd">20 SpD</span> / <span class="stat-spe">20 Spe</span>  
+<span class="type-grass">-</span> Stun Spore  
+<span class="type-poison">-</span> Clear Smog  
+<span class="type-grass">-</span> Giga Drain  
+<span class="type-bug">-</span> Rage Powder  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/755-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/296.png"/>
+</div>
+<pre><span class="type-grass">Morelull</span> @ Big Root  
+<span class="attr">Ability: </span>Effect Spore  
+<span class="attr">Level: </span>26  
+<span class="attr">EVs: </span><span class="stat-hp">108 HP</span> / <span class="stat-spd">92 SpD</span>  
+Calm Nature  
+<span class="attr">IVs: </span><span class="stat-hp">20 HP</span> / <span class="stat-atk">0 Atk</span> / <span class="stat-def">20 Def</span> / <span class="stat-spa">20 SpA</span> / <span class="stat-spd">20 SpD</span> / <span class="stat-spe">20 Spe</span>  
+<span class="type-fairy">-</span> Draining Kiss  
+<span class="type-grass">-</span> Giga Drain  
+<span class="type-grass">-</span> Leech Seed  
+<span class="type-grass">-</span> Ingrain  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/286-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/1886.png"/>
+</div>
+<pre><span class="type-grass">Breloom</span> @ Loaded Dice  
+<span class="attr">Ability: </span>Effect Spore  
+<span class="attr">Level: </span>26  
+<span class="attr">EVs: </span><span class="stat-atk">96 Atk</span> / <span class="stat-spe">100 Spe</span>  
+Jolly Nature  
+<span class="attr">IVs: </span><span class="stat-hp">20 HP</span> / <span class="stat-atk">20 Atk</span> / <span class="stat-def">20 Def</span> / <span class="stat-spa">20 SpA</span> / <span class="stat-spd">20 SpD</span> / <span class="stat-spe">20 Spe</span>  
+<span class="type-fighting">-</span> Brick Break  
+<span class="type-grass">-</span> Bullet Seed  
+<span class="type-electric">-</span> Thunder Punch  
+<span class="type-flying">-</span> Aerial Ace  
+
+</pre>
+</article>
+
+<a href="/trainer/82">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/84">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

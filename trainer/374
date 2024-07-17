@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>374. Triathlete Donny</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/594-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/161.png"/>
+</div>
+<pre><span class="type-water">Alomomola</span> @ Mago Berry  
+<span class="attr">Ability: </span>Regenerator  
+<span class="attr">Level: </span>66  
+<span class="attr">EVs: </span><span class="stat-hp">248 HP</span> / <span class="stat-def">252 Def</span> / <span class="stat-spa">8 SpA</span>  
+Bold Nature  
+<span class="type-normal">-</span> Wish  
+<span class="type-water">-</span> Flip Turn  
+<span class="type-water">-</span> Scald  
+<span class="type-poison">-</span> Toxic  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/195-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/234.png"/>
+</div>
+<pre><span class="type-water">Quagsire</span> @ Leftovers  
+<span class="attr">Ability: </span>Unaware  
+<span class="attr">Level: </span>66  
+<span class="attr">EVs: </span><span class="stat-hp">252 HP</span> / <span class="stat-def">252 Def</span> / <span class="stat-spe">4 Spe</span>  
+Bold Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-poison">-</span> Toxic  
+<span class="type-water">-</span> Scald  
+<span class="type-normal">-</span> Recover  
+<span class="type-rock">-</span> Stealth Rock  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/771-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/157.png"/>
+</div>
+<pre><span class="type-water">Pyukumuku</span> @ Lum Berry  
+<span class="attr">Ability: </span>Innards Out  
+<span class="attr">Level: </span>67  
+<span class="attr">EVs: </span><span class="stat-hp">248 HP</span> / <span class="stat-def">8 Def</span> / <span class="stat-spd">252 SpD</span>  
+Calm Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-poison">-</span> Toxic  
+<span class="type-normal">-</span> Block  
+<span class="type-psychic">-</span> Mirror Coat  
+<span class="type-fighting">-</span> Counter  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/537-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/187.png"/>
+</div>
+<pre><span class="type-water">Seismitoad</span> @ <span class="type-grass">Rindo Berry</span>  
+<span class="attr">Ability: </span>Poison Touch  
+<span class="attr">Level: </span>67  
+<span class="attr">EVs: </span><span class="stat-hp">236 HP</span> / <span class="stat-atk">252 Atk</span> / <span class="stat-spe">20 Spe</span>  
+Adamant Nature  
+<span class="type-water">-</span> Liquidation  
+<span class="type-poison">-</span> Poison Jab  
+<span class="type-rock">-</span> Rock Slide  
+<span class="type-fighting">-</span> Brick Break  
+
+</pre>
+</article>
+
+<a href="/trainer/373">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/375">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

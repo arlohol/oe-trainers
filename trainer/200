@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>200. Cooltrainer Carolina</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/310-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/242.png"/>
+</div>
+<pre><span class="type-electric">Manectric</span> @ <span class="type-electric">Magnet</span>  
+<span class="attr">Ability: </span>Lightning Rod  
+<span class="attr">Level: </span>50  
+<span class="attr">EVs: </span><span class="stat-spa">252 SpA</span> / <span class="stat-spd">4 SpD</span> / <span class="stat-spe">252 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-electric">-</span> Thunder  
+<span class="type-normal">-</span> Hyper Voice  
+<span class="type-electric">-</span> Charge  
+<span class="type-fire">-</span> Flamethrower  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/466-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/158.png"/>
+</div>
+<pre><span class="type-electric">Electivire</span> @ Sitrus Berry  
+<span class="attr">Ability: </span>Motor Drive  
+<span class="attr">Level: </span>49  
+<span class="attr">EVs: </span><span class="stat-hp">248 HP</span> / <span class="stat-spa">8 SpA</span> / <span class="stat-spe">252 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-normal">-</span> Follow Me  
+<span class="type-electric">-</span> Electric Terrain  
+<span class="type-electric">-</span> Discharge  
+<span class="type-fighting">-</span> Detect  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/836-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/270.png"/>
+</div>
+<pre><span class="type-electric">Boltund</span> @ Life Orb  
+<span class="attr">Ability: </span>Strong Jaw  
+<span class="attr">Level: </span>49  
+<span class="attr">EVs: </span><span class="stat-atk">252 Atk</span> / <span class="stat-spd">4 SpD</span> / <span class="stat-spe">248 Spe</span>  
+Jolly Nature  
+<span class="type-electric">-</span> Thunder Fang  
+<span class="type-dark">-</span> Crunch  
+<span class="type-fire">-</span> Fire Fang  
+<span class="type-psychic">-</span> Psychic Fangs  
+
+</pre>
+</article>
+
+<a href="/trainer/199">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/201">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>341. Swimmer Spencer</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/73-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/245.png"/>
+</div>
+<pre><span class="type-water">Tentacruel</span> @ <span class="type-poison">Poison Barb</span>  
+<span class="attr">Ability: </span>Liquid Ooze  
+<span class="attr">Level: </span>67  
+<span class="attr">EVs: </span><span class="stat-spa">196 SpA</span> / <span class="stat-spd">4 SpD</span> / <span class="stat-spe">252 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-water">-</span> Scald  
+<span class="type-poison">-</span> Sludge Bomb  
+<span class="type-poison">-</span> Toxic Spikes  
+<span class="type-ghost">-</span> Hex  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/367-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/240.png"/>
+</div>
+<pre><span class="type-water">Huntail</span> @ <span class="type-dark">Black Glasses</span>  
+<span class="attr">Ability: </span>Water Veil  
+<span class="attr">Level: </span>67  
+<span class="attr">EVs: </span><span class="stat-hp">204 HP</span> / <span class="stat-atk">252 Atk</span> / <span class="stat-spd">4 SpD</span>  
+Adamant Nature  
+<span class="type-water">-</span> Aqua Tail  
+<span class="type-dark">-</span> Crunch  
+<span class="type-dark">-</span> Sucker Punch  
+<span class="type-rock">-</span> Rock Tomb  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/119-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/287.png"/>
+</div>
+<pre><span class="type-water">Seaking</span> @ Choice Scarf  
+<span class="attr">Ability: </span>Lightning Rod  
+<span class="attr">Level: </span>67  
+<span class="attr">EVs: </span><span class="stat-spa">252 SpA</span> / <span class="stat-spd">4 SpD</span> / <span class="stat-spe">252 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-ice">-</span> Blizzard  
+<span class="type-water">-</span> Hydro Pump  
+<span class="type-bug">-</span> Signal Beam  
+<span class="type-water">-</span> Scald  
+
+</pre>
+</article>
+
+<a href="/trainer/340">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/342">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>110. Hiker Brice</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/757-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/249.png"/>
+</div>
+<pre><span class="type-poison">Salandit</span> (<span class="gender-m">M</span>) @ <span class="type-fire">Charcoal</span>  
+<span class="attr">Ability: </span>Corrosion  
+<span class="attr">Level: </span>30  
+<span class="attr">EVs: </span><span class="stat-atk">4 Atk</span> / <span class="stat-spa">104 SpA</span> / <span class="stat-spe">204 Spe</span>  
+Hasty Nature  
+<span class="attr">IVs: </span><span class="stat-hp">22 HP</span> / <span class="stat-atk">22 Atk</span> / <span class="stat-def">22 Def</span> / <span class="stat-spa">22 SpA</span> / <span class="stat-spd">22 SpD</span> / <span class="stat-spe">22 Spe</span>  
+<span class="type-poison">-</span> Sludge Bomb  
+<span class="type-fire">-</span> Flame Burst  
+<span class="type-normal">-</span> Fake Out  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/67-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/241.png"/>
+</div>
+<pre><span class="type-fighting">Machoke</span> @ <span class="type-fighting">Black Belt</span>  
+<span class="attr">Ability: </span>Steadfast  
+<span class="attr">Level: </span>30  
+<span class="attr">EVs: </span><span class="stat-hp">252 HP</span> / <span class="stat-atk">60 Atk</span>  
+Adamant Nature  
+<span class="attr">IVs: </span><span class="stat-hp">22 HP</span> / <span class="stat-atk">22 Atk</span> / <span class="stat-def">22 Def</span> / <span class="stat-spa">22 SpA</span> / <span class="stat-spd">22 SpD</span> / <span class="stat-spe">22 Spe</span>  
+<span class="type-fighting">-</span> Brick Break  
+<span class="type-steel">-</span> Bullet Punch  
+<span class="type-normal">-</span> Facade  
+<span class="type-fire">-</span> Fire Punch  
+
+</pre>
+</article>
+
+<a href="/trainer/109">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/111">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

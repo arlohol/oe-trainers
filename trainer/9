@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>9. Fisherman Darian</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/118-0.png"/>
+</div>
+<pre><span class="type-water">Goldeen</span>  
+<span class="attr">Ability: </span>Swift Swim  
+<span class="attr">Level: </span>9  
+<span class="attr">EVs: </span><span class="stat-hp">8 HP</span> / <span class="stat-atk">52 Atk</span> / <span class="stat-spe">40 Spe</span>  
+Adamant Nature  
+<span class="type-water">-</span> Rain Dance  
+<span class="type-water">-</span> Flip Turn  
+<span class="type-normal">-</span> Horn Attack  
+<span class="type-bug">-</span> Fury Cutter  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/418-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/243.png"/>
+</div>
+<pre><span class="type-water">Buizel</span> @ <span class="type-water">Mystic Water</span>  
+<span class="attr">Ability: </span>Swift Swim  
+<span class="attr">Level: </span>9  
+<span class="attr">EVs: </span><span class="stat-atk">100 Atk</span>  
+Adamant Nature  
+<span class="attr">IVs: </span><span class="stat-hp">15 HP</span> / <span class="stat-def">15 Def</span> / <span class="stat-spa">15 SpA</span> / <span class="stat-spd">15 SpD</span> / <span class="stat-spe">15 Spe</span>  
+<span class="type-water">-</span> Aqua Jet  
+<span class="type-dark">-</span> Bite  
+<span class="type-dark">-</span> Taunt  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/116-0.png"/>
+</div>
+<pre><span class="type-water">Horsea</span>  
+<span class="attr">Ability: </span>Swift Swim  
+<span class="attr">Level: </span>9  
+<span class="attr">EVs: </span><span class="stat-spa">100 SpA</span>  
+Modest Nature  
+<span class="attr">IVs: </span><span class="stat-hp">15 HP</span> / <span class="stat-atk">0 Atk</span> / <span class="stat-def">15 Def</span> / <span class="stat-spa">15 SpA</span> / <span class="stat-spd">15 SpD</span> / <span class="stat-spe">15 Spe</span>  
+<span class="type-dragon">-</span> Twister  
+<span class="type-water">-</span> Bubble  
+<span class="type-ice">-</span> Aurora Beam  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/339-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/187.png"/>
+</div>
+<pre><span class="type-water">Barboach</span> @ <span class="type-grass">Rindo Berry</span>  
+<span class="attr">Ability: </span>Hydration  
+<span class="attr">Level: </span>9  
+<span class="attr">EVs: </span><span class="stat-hp">100 HP</span>  
+Modest Nature  
+<span class="attr">IVs: </span><span class="stat-hp">15 HP</span> / <span class="stat-atk">0 Atk</span> / <span class="stat-def">15 Def</span> / <span class="stat-spa">15 SpA</span> / <span class="stat-spd">15 SpD</span> / <span class="stat-spe">15 Spe</span>  
+<span class="type-ground">-</span> Mud Shot  
+<span class="type-water">-</span> Water Pulse  
+<span class="type-water">-</span> Rain Dance  
+
+</pre>
+</article>
+
+<a href="/trainer/8">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/10">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

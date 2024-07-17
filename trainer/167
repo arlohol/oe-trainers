@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>167. Camper Branden</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/65-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/270.png"/>
+</div>
+<pre><span class="type-psychic">Alakazam</span> @ Life Orb  
+<span class="attr">Ability: </span>Magic Guard  
+<span class="attr">Level: </span>41  
+<span class="attr">EVs: </span><span class="stat-spe">184 Spe</span>  
+<span class="attr">IVs: </span><span class="stat-hp">24 HP</span> / <span class="stat-atk">24 Atk</span> / <span class="stat-def">24 Def</span> / <span class="stat-spa">24 SpA</span> / <span class="stat-spd">24 SpD</span> / <span class="stat-spe">24 Spe</span>  
+<span class="type-normal">-</span> Metronome  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/36-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/287.png"/>
+</div>
+<pre><span class="type-fairy">Clefable</span> @ Choice Scarf  
+<span class="attr">Ability: </span>Magic Guard  
+<span class="attr">Level: </span>41  
+<span class="attr">EVs: </span><span class="stat-spe">176 Spe</span>  
+<span class="attr">IVs: </span><span class="stat-hp">24 HP</span> / <span class="stat-atk">24 Atk</span> / <span class="stat-def">24 Def</span> / <span class="stat-spa">24 SpA</span> / <span class="stat-spd">24 SpD</span> / <span class="stat-spe">24 Spe</span>  
+<span class="type-normal">-</span> Metronome  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/94-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/650.png"/>
+</div>
+<pre><span class="type-ghost">Gengar</span> @ Safety Goggles  
+<span class="attr">Ability: </span>Cursed Body  
+<span class="attr">Level: </span>41  
+<span class="attr">EVs: </span><span class="stat-spe">188 Spe</span>  
+<span class="attr">IVs: </span><span class="stat-hp">24 HP</span> / <span class="stat-atk">24 Atk</span> / <span class="stat-def">24 Def</span> / <span class="stat-spa">24 SpA</span> / <span class="stat-spd">24 SpD</span> / <span class="stat-spe">24 Spe</span>  
+<span class="type-normal">-</span> Metronome  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/76-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/1885.png"/>
+</div>
+<pre><span class="type-rock">Golem</span> @ Covert Cloak  
+<span class="attr">Ability: </span>Sturdy  
+<span class="attr">Level: </span>41  
+<span class="attr">EVs: </span><span class="stat-spe">180 Spe</span>  
+<span class="attr">IVs: </span><span class="stat-hp">24 HP</span> / <span class="stat-atk">24 Atk</span> / <span class="stat-def">24 Def</span> / <span class="stat-spa">24 SpA</span> / <span class="stat-spd">24 SpD</span> / <span class="stat-spe">24 Spe</span>  
+<span class="type-normal">-</span> Metronome  
+
+</pre>
+</article>
+
+<a href="/trainer/166">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/168">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>405. Swimmer Jack</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/130-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/297.png"/>
+</div>
+<pre><span class="type-water">Gyarados</span> @ Choice Specs  
+<span class="attr">Ability: </span>Intimidate  
+<span class="attr">Level: </span>68  
+<span class="attr">EVs: </span><span class="stat-spa">244 SpA</span> / <span class="stat-spe">164 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-dark">-</span> Dark Pulse  
+<span class="type-dragon">-</span> Dragon Pulse  
+<span class="type-fire">-</span> Flamethrower  
+<span class="type-water">-</span> Hydro Pump  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/55-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/220.png"/>
+</div>
+<pre><span class="type-water">Golduck</span> @ Choice Band  
+<span class="attr">Ability: </span>Cloud Nine  
+<span class="attr">Level: </span>68  
+<span class="attr">EVs: </span><span class="stat-atk">232 Atk</span> / <span class="stat-spe">176 Spe</span>  
+Jolly Nature  
+<span class="type-water">-</span> Liquidation  
+<span class="type-fighting">-</span> Cross Chop  
+<span class="type-psychic">-</span> Zen Headbutt  
+<span class="type-ice">-</span> Ice Punch  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/87-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/268.png"/>
+</div>
+<pre><span class="type-water">Dewgong</span> @ Expert Belt  
+<span class="attr">Ability: </span>Thick Fat  
+<span class="attr">Level: </span>68  
+<span class="attr">EVs: </span><span class="stat-hp">168 HP</span> / <span class="stat-atk">252 Atk</span>  
+Adamant Nature  
+<span class="type-normal">-</span> Fake Out  
+<span class="type-ice">-</span> Avalanche  
+<span class="type-bug">-</span> Megahorn  
+<span class="type-water">-</span> Liquidation  
+
+</pre>
+</article>
+
+<a href="/trainer/404">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/406">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

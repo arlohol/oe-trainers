@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>84. Kindler Hayden</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/322-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/1882.png"/>
+</div>
+<pre><span class="type-fire">Numel</span> @ Clear Amulet  
+<span class="attr">Ability: </span>Simple  
+<span class="attr">Level: </span>26  
+<span class="attr">EVs: </span><span class="stat-hp">196 HP</span>  
+Bold Nature  
+<span class="attr">IVs: </span><span class="stat-hp">20 HP</span> / <span class="stat-atk">0 Atk</span> / <span class="stat-def">20 Def</span> / <span class="stat-spa">20 SpA</span> / <span class="stat-spd">20 SpD</span> / <span class="stat-spe">20 Spe</span>  
+<span class="type-rock">-</span> Ancient Power  
+<span class="type-ground">-</span> Scorching Sands  
+<span class="type-fire">-</span> Incinerate  
+<span class="type-normal">-</span> Focus Energy  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/400-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/158.png"/>
+</div>
+<pre><span class="type-normal">Bibarel</span> @ Sitrus Berry  
+<span class="attr">Ability: </span>Simple  
+<span class="attr">Level: </span>26  
+<span class="attr">EVs: </span><span class="stat-hp">196 HP</span>  
+Adamant Nature  
+<span class="attr">IVs: </span><span class="stat-hp">20 HP</span> / <span class="stat-atk">20 Atk</span> / <span class="stat-def">20 Def</span> / <span class="stat-spa">20 SpA</span> / <span class="stat-spd">20 SpD</span> / <span class="stat-spe">20 Spe</span>  
+<span class="type-water">-</span> Aqua Jet  
+<span class="type-normal">-</span> Facade  
+<span class="type-psychic">-</span> Amnesia  
+<span class="type-ghost">-</span> Curse  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/528-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/161.png"/>
+</div>
+<pre><span class="type-psychic">Swoobat</span> @ Mago Berry  
+<span class="attr">Ability: </span>Simple  
+<span class="attr">Level: </span>26  
+<span class="attr">EVs: </span><span class="stat-hp">200 HP</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-hp">20 HP</span> / <span class="stat-atk">0 Atk</span> / <span class="stat-def">20 Def</span> / <span class="stat-spa">20 SpA</span> / <span class="stat-spd">20 SpD</span> / <span class="stat-spe">20 Spe</span>  
+<span class="type-flying">-</span> Air Cutter  
+<span class="type-electric">-</span> Charge Beam  
+<span class="type-psychic">-</span> Stored Power  
+<span class="type-psychic">-</span> Calm Mind  
+
+</pre>
+</article>
+
+<a href="/trainer/83">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/85">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

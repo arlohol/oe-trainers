@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>38. Picnicker Nadia</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/546-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/1885.png"/>
+</div>
+<pre><span class="type-grass">Cottonee</span> @ Covert Cloak  
+<span class="attr">Ability: </span>Prankster  
+<span class="attr">Level: </span>16  
+<span class="attr">EVs: </span><span class="stat-hp">88 HP</span> / <span class="stat-def">80 Def</span>  
+Bold Nature  
+<span class="attr">IVs: </span><span class="stat-hp">17 HP</span> / <span class="stat-atk">0 Atk</span> / <span class="stat-def">17 Def</span> / <span class="stat-spa">17 SpA</span> / <span class="stat-spd">17 SpD</span> / <span class="stat-spe">17 Spe</span>  
+<span class="type-fire">-</span> Sunny Day  
+<span class="type-normal">-</span> Tickle  
+<span class="type-fairy">-</span> Fairy Wind  
+<span class="type-grass">-</span> Mega Drain  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/420-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/239.png"/>
+</div>
+<pre><span class="type-grass">Cherubi</span> @ <span class="type-grass">Miracle Seed</span>  
+<span class="attr">Ability: </span>Chlorophyll  
+<span class="attr">Level: </span>16  
+<span class="attr">EVs: </span><span class="stat-hp">108 HP</span> / <span class="stat-spa">52 SpA</span>  
+Modest Nature  
+<span class="attr">IVs: </span><span class="stat-hp">17 HP</span> / <span class="stat-atk">0 Atk</span> / <span class="stat-def">17 Def</span> / <span class="stat-spa">17 SpA</span> / <span class="stat-spd">17 SpD</span> / <span class="stat-spe">17 Spe</span>  
+<span class="type-grass">-</span> Magical Leaf  
+<span class="type-grass">-</span> Leech Seed  
+<span class="type-normal">-</span> Growth  
+<span class="type-grass">-</span> Synthesis  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/2-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/1886.png"/>
+</div>
+<pre><span class="type-grass">Ivysaur</span> @ Loaded Dice  
+<span class="attr">Ability: </span>Chlorophyll  
+<span class="attr">Level: </span>17  
+<span class="attr">EVs: </span><span class="stat-atk">164 Atk</span>  
+Adamant Nature  
+<span class="attr">IVs: </span><span class="stat-hp">17 HP</span> / <span class="stat-def">17 Def</span> / <span class="stat-spa">17 SpA</span> / <span class="stat-spd">17 SpD</span> / <span class="stat-spe">17 Spe</span>  
+<span class="type-grass">-</span> Bullet Seed  
+<span class="type-grass">-</span> Razor Leaf  
+<span class="type-normal">-</span> Cut  
+<span class="type-grass">-</span> Sleep Powder  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/5-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/270.png"/>
+</div>
+<pre><span class="type-fire">Charmeleon</span> @ Life Orb  
+<span class="attr">Ability: </span>Solar Power  
+<span class="attr">Level: </span>17  
+<span class="attr">EVs: </span><span class="stat-spa">84 SpA</span> / <span class="stat-spe">84 Spe</span>  
+Modest Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-fire">-</span> Incinerate  
+<span class="type-normal">-</span> Swift  
+<span class="type-dragon">-</span> Dragon Breath  
+<span class="type-dragon">-</span> Dragon Rage  
+
+</pre>
+</article>
+
+<a href="/trainer/37">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/39">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

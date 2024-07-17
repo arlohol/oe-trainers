@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>394. Cooltrainer Darcy</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/553-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/189.png"/>
+</div>
+<pre><span class="type-ground">Krookodile</span> @ <span class="type-fighting">Chople Berry</span>  
+<span class="attr">Ability: </span>Intimidate  
+<span class="attr">Level: </span>69  
+<span class="attr">EVs: </span><span class="stat-atk">252 Atk</span> / <span class="stat-spd">8 SpD</span> / <span class="stat-spe">248 Spe</span>  
+Jolly Nature  
+<span class="type-ground">-</span> High Horsepower  
+<span class="type-dark">-</span> Lash Out  
+<span class="type-fighting">-</span> Close Combat  
+<span class="type-fighting">-</span> Bulk Up  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/573-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/1886.png"/>
+</div>
+<pre><span class="type-normal">Cinccino</span> @ Loaded Dice  
+<span class="attr">Ability: </span>Technician  
+<span class="attr">Level: </span>69  
+<span class="attr">EVs: </span><span class="stat-hp">8 HP</span> / <span class="stat-atk">248 Atk</span> / <span class="stat-spe">252 Spe</span>  
+Jolly Nature  
+<span class="type-grass">-</span> Bullet Seed  
+<span class="type-normal">-</span> Tail Slap  
+<span class="type-rock">-</span> Rock Blast  
+<span class="type-ice">-</span> Triple Axel  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/594-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/542.png"/>
+</div>
+<pre><span class="type-water">Alomomola</span> @ Red Card  
+<span class="attr">Ability: </span>Regenerator  
+<span class="attr">Level: </span>69  
+<span class="attr">EVs: </span><span class="stat-hp">252 HP</span> / <span class="stat-def">252 Def</span> / <span class="stat-spd">4 SpD</span>  
+Bold Nature  
+<span class="type-water">-</span> Scald  
+<span class="type-normal">-</span> Wish  
+<span class="type-water">-</span> Flip Turn  
+<span class="type-poison">-</span> Toxic  
+
+</pre>
+</article>
+
+<a href="/trainer/393">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/395">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

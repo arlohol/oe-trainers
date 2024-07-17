@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>303. Cooltrainer Braxton </H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/276-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/275.png"/>
+</div>
+<pre><span class="type-normal">Taillow</span> @ Focus Sash  
+<span class="attr">Ability: </span>Scrappy  
+<span class="attr">Level: </span>60  
+<span class="attr">EVs: </span><span class="stat-atk">236 Atk</span> / <span class="stat-spe">236 Spe</span>  
+Naive Nature  
+<span class="attr">IVs: </span><span class="stat-hp">0 HP</span> / <span class="stat-def">0 Def</span> / <span class="stat-spd">0 SpD</span>  
+<span class="type-normal">-</span> Quick Attack  
+<span class="type-normal">-</span> Endeavor  
+<span class="type-dark">-</span> Pursuit  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/330-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/1882.png"/>
+</div>
+<pre><span class="type-ground">Flygon</span> @ Clear Amulet  
+<span class="attr">Ability: </span>Levitate  
+<span class="attr">Level: </span>60  
+<span class="attr">EVs: </span><span class="stat-hp">4 HP</span> / <span class="stat-atk">224 Atk</span> / <span class="stat-spe">232 Spe</span>  
+Jolly Nature  
+<span class="type-ground">-</span> Earthquake  
+<span class="type-bug">-</span> First Impression  
+<span class="type-dark">-</span> Throat Chop  
+<span class="type-dragon">-</span> Dragon Claw  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/82-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/538.png"/>
+</div>
+<pre><span class="type-electric">Magneton</span> @ Eviolite  
+<span class="attr">Ability: </span>Analytic  
+<span class="attr">Level: </span>60  
+<span class="attr">EVs: </span><span class="stat-hp">204 HP</span> / <span class="stat-spa">248 SpA</span> / <span class="stat-spd">4 SpD</span> / <span class="stat-spe">4 Spe</span>  
+Modest Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span> / <span class="stat-spa">30 SpA</span>  
+<span class="type-electric">-</span> Thunderbolt  
+<span class="type-steel">-</span> Flash Cannon  
+<span class="type-grass">-</span> Hidden Power [Grass]  
+<span class="type-electric">-</span> Magnet Rise  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/306-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/541.png"/>
+</div>
+<pre><span class="type-steel">Aggron</span> @ Air Balloon  
+<span class="attr">Ability: </span>Heavy Metal  
+<span class="attr">Level: </span>60  
+<span class="attr">EVs: </span><span class="stat-hp">204 HP</span> / <span class="stat-atk">252 Atk</span> / <span class="stat-spd">4 SpD</span>  
+Adamant Nature  
+<span class="type-steel">-</span> Heavy Slam  
+<span class="type-rock">-</span> Rock Slide  
+<span class="type-fighting">-</span> Body Press  
+<span class="type-ghost">-</span> Curse  
+
+</pre>
+</article>
+
+<a href="/trainer/302">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/304">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

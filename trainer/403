@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>403. Swimmer Franklin</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/768-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/640.png"/>
+</div>
+<pre><span class="type-bug">Golisopod</span> @ Assault Vest  
+<span class="attr">Ability: </span>Emergency Exit  
+<span class="attr">Level: </span>69  
+<span class="attr">EVs: </span><span class="stat-hp">152 HP</span> / <span class="stat-atk">252 Atk</span> / <span class="stat-spd">4 SpD</span>  
+Adamant Nature  
+<span class="type-bug">-</span> First Impression  
+<span class="type-steel">-</span> Iron Head  
+<span class="type-bug">-</span> Leech Life  
+<span class="type-dark">-</span> Sucker Punch  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/693-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/270.png"/>
+</div>
+<pre><span class="type-water">Clawitzer</span> @ Life Orb  
+<span class="attr">Ability: </span>Mega Launcher  
+<span class="attr">Level: </span>69  
+<span class="attr">EVs: </span><span class="stat-hp">156 HP</span> / <span class="stat-spa">252 SpA</span>  
+Modest Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-fighting">-</span> Aura Sphere  
+<span class="type-dark">-</span> Dark Pulse  
+<span class="type-dragon">-</span> Dragon Pulse  
+<span class="type-water">-</span> Water Pulse  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/9-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/540.png"/>
+</div>
+<pre><span class="type-water">Blastoise</span> @ Rocky Helmet  
+<span class="attr">Ability: </span>Torrent  
+<span class="attr">Level: </span>69  
+<span class="attr">EVs: </span><span class="stat-hp">248 HP</span> / <span class="stat-def">36 Def</span> / <span class="stat-spd">124 SpD</span>  
+Sassy Nature  
+<span class="type-normal">-</span> Fake Out  
+<span class="type-steel">-</span> Flash Cannon  
+<span class="type-water">-</span> Hydro Pump  
+<span class="type-normal">-</span> Follow Me  
+
+</pre>
+</article>
+
+<a href="/trainer/402">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/404">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

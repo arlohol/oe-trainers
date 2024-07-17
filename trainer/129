@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>129. Picnicker Charlotte</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/22-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/275.png"/>
+</div>
+<pre><span class="type-normal">Fearow</span> @ Focus Sash  
+<span class="attr">Ability: </span>Sniper  
+<span class="attr">Level: </span>33  
+<span class="attr">EVs: </span><span class="stat-atk">176 Atk</span> / <span class="stat-spe">192 Spe</span>  
+Jolly Nature  
+<span class="attr">IVs: </span><span class="stat-hp">22 HP</span> / <span class="stat-atk">22 Atk</span> / <span class="stat-def">22 Def</span> / <span class="stat-spa">22 SpA</span> / <span class="stat-spd">22 SpD</span> / <span class="stat-spe">22 Spe</span>  
+<span class="type-flying">-</span> Drill Peck  
+<span class="type-ground">-</span> Drill Run  
+<span class="type-steel">-</span> Steel Wing  
+<span class="type-normal">-</span> Facade  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/634-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/686.png"/>
+</div>
+<pre><span class="type-dark">Zweilous</span> @ <span class="type-fairy">Roseli Berry</span>  
+<span class="attr">Ability: </span>Hustle  
+<span class="attr">Level: </span>33  
+<span class="attr">EVs: </span><span class="stat-hp">112 HP</span> / <span class="stat-atk">252 Atk</span>  
+Adamant Nature  
+<span class="attr">IVs: </span><span class="stat-hp">22 HP</span> / <span class="stat-atk">22 Atk</span> / <span class="stat-def">22 Def</span> / <span class="stat-spa">22 SpA</span> / <span class="stat-spd">22 SpD</span> / <span class="stat-spe">22 Spe</span>  
+<span class="type-dark">-</span> Crunch  
+<span class="type-dragon">-</span> Dragon Tail  
+<span class="type-water">-</span> Aqua Tail  
+- Dragon Cheer  
+
+</pre>
+</article>
+
+<a href="/trainer/128">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/130">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>242. Team Aqua Grunt 4</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/334-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/1885.png"/>
+</div>
+<pre><span class="type-dragon">Altaria</span> @ Covert Cloak  
+<span class="attr">Ability: </span>Cloud Nine  
+<span class="attr">Level: </span>51  
+<span class="attr">EVs: </span><span class="stat-hp">8 HP</span> / <span class="stat-spa">252 SpA</span> / <span class="stat-spe">248 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-fairy">-</span> Dazzling Gleam  
+<span class="type-fire">-</span> Heat Wave  
+<span class="type-flying">-</span> Air Cutter  
+<span class="type-flying">-</span> Tailwind  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/398-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/158.png"/>
+</div>
+<pre><span class="type-normal">Staraptor</span> @ Sitrus Berry  
+<span class="attr">Ability: </span>Intimidate  
+<span class="attr">Level: </span>51  
+<span class="attr">EVs: </span><span class="stat-atk">252 Atk</span> / <span class="stat-spd">8 SpD</span> / <span class="stat-spe">248 Spe</span>  
+Jolly Nature  
+<span class="type-flying">-</span> Brave Bird  
+<span class="type-normal">-</span> Double-Edge  
+<span class="type-fighting">-</span> Close Combat  
+<span class="type-bug">-</span> U-turn  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/130-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/540.png"/>
+</div>
+<pre><span class="type-water">Gyarados</span> @ Rocky Helmet  
+<span class="attr">Ability: </span>Intimidate  
+<span class="attr">Level: </span>51  
+<span class="attr">EVs: </span><span class="stat-hp">4 HP</span> / <span class="stat-atk">252 Atk</span> / <span class="stat-spd">4 SpD</span> / <span class="stat-spe">248 Spe</span>  
+Jolly Nature  
+<span class="type-water">-</span> Waterfall  
+<span class="type-dark">-</span> Crunch  
+<span class="type-grass">-</span> Power Whip  
+<span class="type-ground">-</span> Earthquake  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/430-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/1882.png"/>
+</div>
+<pre><span class="type-dark">Honchkrow</span> @ Clear Amulet  
+<span class="attr">Ability: </span>Moxie  
+<span class="attr">Level: </span>51  
+<span class="attr">EVs: </span><span class="stat-hp">248 HP</span> / <span class="stat-atk">252 Atk</span> / <span class="stat-def">4 Def</span> / <span class="stat-spd">4 SpD</span>  
+Adamant Nature  
+<span class="type-dark">-</span> Night Slash  
+<span class="type-flying">-</span> Drill Peck  
+<span class="type-dark">-</span> Sucker Punch  
+<span class="type-normal">-</span> Facade  
+
+</pre>
+</article>
+
+<a href="/trainer/241">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/243">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

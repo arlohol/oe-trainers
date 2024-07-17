@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>173. Cooltrainer Jody</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/660-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/220.png"/>
+</div>
+<pre><span class="type-normal">Diggersby</span> @ Choice Band  
+<span class="attr">Ability: </span>Huge Power  
+<span class="attr">Level: </span>43  
+<span class="attr">EVs: </span><span class="stat-hp">204 HP</span> / <span class="stat-atk">248 Atk</span> / <span class="stat-spd">8 SpD</span>  
+Adamant Nature  
+<span class="attr">IVs: </span><span class="stat-hp">24 HP</span> / <span class="stat-atk">24 Atk</span> / <span class="stat-def">24 Def</span> / <span class="stat-spa">24 SpA</span> / <span class="stat-spd">24 SpD</span> / <span class="stat-spe">24 Spe</span>  
+<span class="type-fire">-</span> Fire Punch  
+<span class="type-fighting">-</span> Hammer Arm  
+<span class="type-ground">-</span> High Horsepower  
+<span class="type-steel">-</span> Iron Head  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/184-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/220.png"/>
+</div>
+<pre><span class="type-water">Azumarill</span> @ Choice Band  
+<span class="attr">Ability: </span>Huge Power  
+<span class="attr">Level: </span>43  
+<span class="attr">EVs: </span><span class="stat-hp">212 HP</span> / <span class="stat-atk">252 Atk</span>  
+Adamant Nature  
+<span class="attr">IVs: </span><span class="stat-hp">24 HP</span> / <span class="stat-atk">24 Atk</span> / <span class="stat-def">24 Def</span> / <span class="stat-spa">24 SpA</span> / <span class="stat-spd">24 SpD</span> / <span class="stat-spe">24 Spe</span>  
+<span class="type-fairy">-</span> Play Rough  
+<span class="type-water">-</span> Aqua Tail  
+<span class="type-normal">-</span> Double-Edge  
+<span class="type-steel">-</span> Iron Tail  
+
+</pre>
+</article>
+
+<a href="/trainer/172">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/174">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

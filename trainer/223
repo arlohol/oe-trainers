@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>223. Aroma Lady Violet</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/547-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/1885.png"/>
+</div>
+<pre><span class="type-grass">Whimsicott</span> @ Covert Cloak  
+<span class="attr">Ability: </span>Prankster  
+<span class="attr">Level: </span>47  
+<span class="attr">EVs: </span><span class="stat-spa">104 SpA</span> / <span class="stat-spe">252 Spe</span>  
+Modest Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-fairy">-</span> Moonblast  
+<span class="type-dark">-</span> Fake Tears  
+<span class="type-normal">-</span> Helping Hand  
+<span class="type-fire">-</span> Sunny Day  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/189-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/184.png"/>
+</div>
+<pre><span class="type-grass">Jumpluff</span> @ <span class="type-fire">Occa Berry</span>  
+<span class="attr">Ability: </span>Chlorophyll  
+<span class="attr">Level: </span>47  
+<span class="attr">EVs: </span><span class="stat-atk">248 Atk</span> / <span class="stat-spe">112 Spe</span>  
+Adamant Nature  
+<span class="type-grass">-</span> Sleep Powder  
+<span class="type-grass">-</span> Seed Bomb  
+<span class="type-flying">-</span> Tailwind  
+<span class="type-bug">-</span> U-turn  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/182-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/270.png"/>
+</div>
+<pre><span class="type-grass">Bellossom</span> @ Life Orb  
+<span class="attr">Ability: </span>Chlorophyll  
+<span class="attr">Level: </span>47  
+<span class="attr">EVs: </span><span class="stat-spa">136 SpA</span> / <span class="stat-spe">220 Spe</span>  
+Modest Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-grass">-</span> Solar Beam  
+<span class="type-fairy">-</span> Dazzling Gleam  
+<span class="type-grass">-</span> Strength Sap  
+<span class="type-bug">-</span> Quiver Dance  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/0-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/275.png"/>
+</div>
+<pre>Lilligant-Hisui @ Focus Sash  
+<span class="attr">Ability: </span>Chlorophyll  
+<span class="attr">Level: </span>47  
+<span class="attr">EVs: </span><span class="stat-atk">248 Atk</span> / <span class="stat-spe">112 Spe</span>  
+Jolly Nature  
+<span class="type-fighting">-</span> Axe Kick  
+<span class="type-grass">-</span> Solar Blade  
+<span class="type-ice">-</span> Triple Axel  
+<span class="type-fighting">-</span> Victory Dance  
+
+</pre>
+</article>
+
+<a href="/trainer/222">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/224">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

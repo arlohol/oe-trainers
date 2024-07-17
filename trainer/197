@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>197. Swimmer Missy</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/518-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/160.png"/>
+</div>
+<pre><span class="type-psychic">Musharna</span> @ Wiki Berry  
+<span class="attr">Ability: </span>Telepathy  
+<span class="attr">Level: </span>46  
+<span class="attr">EVs: </span><span class="stat-hp">172 HP</span> / <span class="stat-def">252 Def</span>  
+Relaxed Nature  
+<span class="attr">IVs: </span><span class="stat-hp">25 HP</span> / <span class="stat-atk">0 Atk</span> / <span class="stat-def">25 Def</span> / <span class="stat-spa">25 SpA</span> / <span class="stat-spd">25 SpD</span> / <span class="stat-spe">25 Spe</span>  
+<span class="type-normal">-</span> Baton Pass  
+<span class="type-psychic">-</span> Calm Mind  
+<span class="type-fairy">-</span> Moonblast  
+<span class="type-psychic">-</span> Psychic  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/260-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/237.png"/>
+</div>
+<pre><span class="type-water">Swampert</span> @ <span class="type-ground">Soft Sand</span>  
+<span class="attr">Ability: </span>Torrent  
+<span class="attr">Level: </span>46  
+<span class="attr">EVs: </span><span class="stat-hp">172 HP</span> / <span class="stat-atk">252 Atk</span>  
+Adamant Nature  
+<span class="type-ground">-</span> Earthquake  
+<span class="type-water">-</span> Liquidation  
+<span class="type-ice">-</span> Avalanche  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/139-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/234.png"/>
+</div>
+<pre><span class="type-rock">Omastar</span> @ Leftovers  
+<span class="attr">Ability: </span>Weak Armor  
+<span class="attr">Level: </span>46  
+<span class="attr">EVs: </span><span class="stat-hp">172 HP</span> / <span class="stat-spa">252 SpA</span>  
+Modest Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-rock">-</span> Ancient Power  
+<span class="type-water">-</span> Muddy Water  
+<span class="type-ground">-</span> Earth Power  
+<span class="type-ice">-</span> Ice Beam  
+
+</pre>
+</article>
+
+<a href="/trainer/196">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/198">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>36. Fisherman Ned</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/747-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/149.png"/>
+</div>
+<pre><span class="type-poison">Mareanie</span> @ Cheri Berry  
+<span class="attr">Ability: </span>Merciless  
+<span class="attr">Level: </span>14  
+<span class="attr">EVs: </span><span class="stat-def">16 Def</span> / <span class="stat-spd">68 SpD</span> / <span class="stat-spe">12 Spe</span>  
+Careful Nature  
+<span class="attr">IVs: </span><span class="stat-hp">15 HP</span> / <span class="stat-atk">15 Atk</span> / <span class="stat-def">15 Def</span> / <span class="stat-spa">15 SpA</span> / <span class="stat-spd">15 SpD</span> / <span class="stat-spe">15 Spe</span>  
+<span class="type-bug">-</span> Pounce  
+<span class="type-dark">-</span> Bite  
+<span class="type-poison">-</span> Toxic  
+<span class="type-poison">-</span> Poison Sting  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/72-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/545.png"/>
+</div>
+<pre><span class="type-water">Tentacool</span> @ Absorb Bulb  
+<span class="attr">Ability: </span>Liquid Ooze  
+<span class="attr">Level: </span>15  
+<span class="attr">EVs: </span><span class="stat-spa">48 SpA</span> / <span class="stat-spe">48 Spe</span>  
+Modest Nature  
+<span class="attr">IVs: </span><span class="stat-hp">15 HP</span> / <span class="stat-atk">15 Atk</span> / <span class="stat-def">15 Def</span> / <span class="stat-spa">15 SpA</span> / <span class="stat-spd">15 SpD</span> / <span class="stat-spe">15 Spe</span>  
+<span class="type-poison">-</span> Toxic  
+<span class="type-water">-</span> Chilling Water  
+<span class="type-poison">-</span> Acid Spray  
+<span class="type-grass">-</span> Mega Drain  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/690-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/268.png"/>
+</div>
+<pre><span class="type-poison">Skrelp</span> @ Expert Belt  
+<span class="attr">Ability: </span>Adaptability  
+<span class="attr">Level: </span>16  
+<span class="attr">EVs: </span><span class="stat-spa">88 SpA</span>  
+Modest Nature  
+<span class="attr">IVs: </span><span class="stat-hp">15 HP</span> / <span class="stat-atk">15 Atk</span> / <span class="stat-def">15 Def</span> / <span class="stat-spa">15 SpA</span> / <span class="stat-spd">15 SpD</span> / <span class="stat-spe">15 Spe</span>  
+<span class="type-poison">-</span> Acid Spray  
+<span class="type-water">-</span> Chilling Water  
+<span class="type-dragon">-</span> Twister  
+<span class="type-electric">-</span> Shock Wave  
+
+</pre>
+</article>
+
+<a href="/trainer/35">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/37">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

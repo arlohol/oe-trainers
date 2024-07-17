@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>360. Swimmer Nolen</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/584-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/282.png"/>
+</div>
+<pre><span class="type-ice">Vanilluxe</span> @ <span class="type-ice">Icy Rock</span>  
+<span class="attr">Ability: </span>Snow Warning  
+<span class="attr">Level: </span>68  
+<span class="attr">EVs: </span><span class="stat-hp">4 HP</span> / <span class="stat-spa">252 SpA</span> / <span class="stat-spe">252 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-ice">-</span> Aurora Veil  
+<span class="type-ice">-</span> Blizzard  
+<span class="type-ice">-</span> Freeze-Dry  
+<span class="type-steel">-</span> Flash Cannon  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/614-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/270.png"/>
+</div>
+<pre><span class="type-ice">Beartic</span> @ Life Orb  
+<span class="attr">Ability: </span>Slush Rush  
+<span class="attr">Level: </span>68  
+<span class="type-ice">-</span> Ice Punch  
+<span class="type-water">-</span> Liquidation  
+<span class="type-fairy">-</span> Play Rough  
+<span class="type-fighting">-</span> Close Combat  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/883-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/220.png"/>
+</div>
+<pre><span class="type-water">Arctovish</span> @ Choice Band  
+<span class="attr">Ability: </span>Slush Rush  
+<span class="attr">Level: </span>68  
+<span class="type-water">-</span> Fishious Rend  
+<span class="type-ice">-</span> Icicle Crash  
+<span class="type-psychic">-</span> Psychic Fangs  
+<span class="type-rock">-</span> Rock Slide  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/0-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/275.png"/>
+</div>
+<pre>Avalugg-Hisui @ Focus Sash  
+<span class="attr">Ability: </span>Strong Jaw  
+<span class="attr">Level: </span>68  
+<span class="attr">EVs: </span><span class="stat-hp">252 HP</span> / <span class="stat-atk">252 Atk</span> / <span class="stat-def">4 Def</span>  
+Brave Nature  
+<span class="attr">IVs: </span><span class="stat-spe">0 Spe</span>  
+<span class="type-ice">-</span> Ice Fang  
+<span class="type-dark">-</span> Crunch  
+<span class="type-ground">-</span> High Horsepower  
+<span class="type-steel">-</span> Gyro Ball  
+
+</pre>
+</article>
+
+<a href="/trainer/359">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/361">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

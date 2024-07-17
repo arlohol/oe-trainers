@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>92. Triathlete Maria</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/822-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/538.png"/>
+</div>
+<pre><span class="type-flying">Corvisquire</span> @ Eviolite  
+<span class="attr">Ability: </span>Unnerve  
+<span class="attr">Level: </span>27  
+<span class="attr">EVs: </span><span class="stat-hp">208 HP</span>  
+Adamant Nature  
+<span class="attr">IVs: </span><span class="stat-hp">20 HP</span> / <span class="stat-atk">20 Atk</span> / <span class="stat-def">20 Def</span> / <span class="stat-spa">20 SpA</span> / <span class="stat-spd">20 SpD</span> / <span class="stat-spe">20 Spe</span>  
+<span class="type-flying">-</span> Pluck  
+<span class="type-bug">-</span> U-turn  
+<span class="type-flying">-</span> Tailwind  
+<span class="type-dark">-</span> Hone Claws  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/17-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/546.png"/>
+</div>
+<pre><span class="type-normal">Pidgeotto</span> @ Cell Battery  
+<span class="attr">Ability: </span>Tangled Feet  
+<span class="attr">Level: </span>27  
+<span class="attr">EVs: </span><span class="stat-hp">200 HP</span>  
+Modest Nature  
+<span class="attr">IVs: </span><span class="stat-hp">20 HP</span> / <span class="stat-atk">20 Atk</span> / <span class="stat-def">20 Def</span> / <span class="stat-spa">20 SpA</span> / <span class="stat-spd">20 SpD</span> / <span class="stat-spe">20 Spe</span>  
+<span class="type-flying">-</span> Air Cutter  
+<span class="type-ghost">-</span> Ominous Wind  
+<span class="type-normal">-</span> Razor Wind  
+<span class="type-bug">-</span> U-turn  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/662-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/195.png"/>
+</div>
+<pre><span class="type-fire">Fletchinder</span> @ <span class="type-rock">Charti Berry</span>  
+<span class="attr">Ability: </span>Gale Wings  
+<span class="attr">Level: </span>27  
+<span class="attr">EVs: </span><span class="stat-atk">196 Atk</span>  
+Adamant Nature  
+<span class="attr">IVs: </span><span class="stat-hp">20 HP</span> / <span class="stat-atk">20 Atk</span> / <span class="stat-def">20 Def</span> / <span class="stat-spa">20 SpA</span> / <span class="stat-spd">20 SpD</span> / <span class="stat-spe">20 Spe</span>  
+<span class="type-fire">-</span> Flame Charge  
+<span class="type-flying">-</span> Acrobatics  
+<span class="type-fire">-</span> Will-O-Wisp  
+<span class="type-flying">-</span> Roost  
+
+</pre>
+</article>
+
+<a href="/trainer/91">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/93">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

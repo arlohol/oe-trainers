@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>52. Tuber Ricky</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/25-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/541.png"/>
+</div>
+<pre><span class="type-electric">Pikachu</span> @ Air Balloon  
+<span class="attr">Ability: </span>Lightning Rod  
+<span class="attr">Level: </span>18  
+<span class="attr">EVs: </span><span class="stat-spa">84 SpA</span>  
+Modest Nature  
+<span class="attr">IVs: </span><span class="stat-hp">13 HP</span> / <span class="stat-atk">0 Atk</span> / <span class="stat-def">13 Def</span> / <span class="stat-spa">13 SpA</span> / <span class="stat-spd">13 SpD</span> / <span class="stat-spe">13 Spe</span>  
+<span class="type-water">-</span> Surf  
+<span class="type-fairy">-</span> Disarming Voice  
+<span class="type-electric">-</span> Shock Wave  
+<span class="type-electric">-</span> Thunder Wave  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/456-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/268.png"/>
+</div>
+<pre><span class="type-water">Finneon</span> @ Expert Belt  
+<span class="attr">Ability: </span>Storm Drain  
+<span class="attr">Level: </span>18  
+<span class="attr">EVs: </span><span class="stat-spe">88 Spe</span>  
+Timid Nature  
+<span class="attr">IVs: </span><span class="stat-hp">13 HP</span> / <span class="stat-atk">0 Atk</span> / <span class="stat-def">13 Def</span> / <span class="stat-spa">13 SpA</span> / <span class="stat-spd">13 SpD</span> / <span class="stat-spe">13 Spe</span>  
+<span class="type-water">-</span> Chilling Water  
+<span class="type-ice">-</span> Aurora Beam  
+<span class="type-flying">-</span> Air Cutter  
+<span class="type-bug">-</span> Silver Wind  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/422-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/243.png"/>
+</div>
+<pre><span class="type-water">Shellos</span> @ <span class="type-water">Mystic Water</span>  
+<span class="attr">Ability: </span>Storm Drain  
+<span class="attr">Level: </span>18  
+<span class="attr">EVs: </span><span class="stat-def">76 Def</span>  
+Calm Nature  
+<span class="attr">IVs: </span><span class="stat-hp">13 HP</span> / <span class="stat-atk">0 Atk</span> / <span class="stat-def">13 Def</span> / <span class="stat-spa">13 SpA</span> / <span class="stat-spd">13 SpD</span> / <span class="stat-spe">13 Spe</span>  
+<span class="type-water">-</span> Chilling Water  
+<span class="type-rock">-</span> Ancient Power  
+<span class="type-ice">-</span> Icy Wind  
+<span class="type-ground">-</span> Mud Shot  
+
+</pre>
+</article>
+
+<a href="/trainer/51">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/53">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>

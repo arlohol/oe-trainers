@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OE Team Tracker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<H1>20. School Kid Karen</H1>
+<br>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/300-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/251.png"/>
+</div>
+<pre><span class="type-normal">Skitty</span> (<span class="gender-f">F</span>) @ <span class="type-normal">Silk Scarf</span>  
+<span class="attr">Ability: </span>Normalize  
+<span class="attr">Level: </span>11  
+<span class="attr">EVs: </span><span class="stat-hp">24 HP</span> / <span class="stat-def">28 Def</span> / <span class="stat-spd">32 SpD</span>  
+Careful Nature  
+<span class="attr">IVs: </span><span class="stat-hp">13 HP</span> / <span class="stat-def">13 Def</span> / <span class="stat-spa">13 SpA</span> / <span class="stat-spd">13 SpD</span> / <span class="stat-spe">13 Spe</span>  
+<span class="type-normal">-</span> Fake Out  
+<span class="type-normal">-</span> Attract  
+<span class="type-poison">-</span> Toxic  
+<span class="type-normal">-</span> Double Slap  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/198-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/1885.png"/>
+</div>
+<pre><span class="type-dark">Murkrow</span> (<span class="gender-m">M</span>) @ Covert Cloak  
+<span class="attr">Ability: </span>Prankster  
+<span class="attr">Level: </span>11  
+<span class="attr">EVs: </span><span class="stat-hp">52 HP</span> / <span class="stat-def">52 Def</span>  
+Impish Nature  
+<span class="attr">IVs: </span><span class="stat-hp">13 HP</span> / <span class="stat-atk">13 Atk</span> / <span class="stat-def">13 Def</span> / <span class="stat-spa">13 SpA</span> / <span class="stat-spd">13 SpD</span> / <span class="stat-spe">13 Spe</span>  
+<span class="type-normal">-</span> Attract  
+<span class="type-flying">-</span> Roost  
+<span class="type-electric">-</span> Thunder Wave  
+<span class="type-dark">-</span> Feint Attack  
+
+</pre>
+</article>
+<article>
+<div class="img">
+<img class="img-pokemon" src="https://pokepast.es/img/pokemon/607-0.png"/>
+<img class="img-item" src="https://pokepast.es/img/items/541.png"/>
+</div>
+<pre><span class="type-ghost">Litwick</span> @ Air Balloon  
+<span class="attr">Ability: </span>Flame Body  
+<span class="attr">Level: </span>11  
+<span class="attr">EVs: </span><span class="stat-hp">24 HP</span> / <span class="stat-def">20 Def</span> / <span class="stat-spd">20 SpD</span>  
+Calm Nature  
+<span class="attr">IVs: </span><span class="stat-hp">13 HP</span> / <span class="stat-atk">13 Atk</span> / <span class="stat-def">13 Def</span> / <span class="stat-spa">13 SpA</span> / <span class="stat-spd">13 SpD</span> / <span class="stat-spe">13 Spe</span>  
+<span class="type-ghost">-</span> Hex  
+<span class="type-fire">-</span> Fire Spin  
+<span class="type-fire">-</span> Will-O-Wisp  
+
+</pre>
+</article>
+
+<a href="/trainer/19">
+    <button type="button">Previous Trainer</button>
+</a>
+
+
+
+<a href="/trainer/21">
+    <button type="button">Next Trainer</button>
+</a>
+
+<br>
+<a href="/"><button type="button">Trainer List</button></a>
+</body>
+</html>
